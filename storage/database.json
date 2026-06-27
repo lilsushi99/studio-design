@@ -1,0 +1,6768 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@kaijustudios.com",
+      "password": "admin-kaiju",
+      "name": "Keiji Sato (Studio Lead)"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "title": "Home Page",
+      "enabled": true
+    },
+    {
+      "id": "portfolio",
+      "title": "Portfolio Catalog",
+      "enabled": true
+    },
+    {
+      "id": "studio",
+      "title": "Studio Page",
+      "enabled": true
+    },
+    {
+      "id": "blog",
+      "title": "Blog Insight Page",
+      "enabled": true
+    },
+    {
+      "id": "contact",
+      "title": "Contact Coordinates",
+      "enabled": true
+    }
+  ],
+  "settings": {
+    "site_name": "STUDIO KAIJU",
+    "maintenance_mode": false,
+    "allow_inquiries": true
+  },
+  "navigation": {
+    "logoText": "KAIJU",
+    "logoSubtext": "STUDIOS",
+    "links": [
+      {
+        "label": "Home",
+        "page": "home"
+      },
+      {
+        "label": "Portfolio",
+        "page": "portfolio"
+      },
+      {
+        "label": "Studio",
+        "page": "studio"
+      },
+      {
+        "label": "Blog",
+        "page": "blog"
+      },
+      {
+        "label": "Contact",
+        "page": "contact"
+      }
+    ]
+  },
+  "hero": {
+    "badge": "WORLD-CLASS CREATIVE SEQUENTIAL AGENCY",
+    "title": "COMIC ART STUDIO",
+    "subtitle": "Crafting ultra-premium manga, webtoons, and graphic novels for high-end international publishers, global brands, and independent visionary creators.",
+    "bgGradientType": "cinematic",
+    "bgGradientColor1": "#0a0a0a",
+    "bgGradientColor2": "#1a1a1a",
+    "bgGradientColor3": "#111111",
+    "buttons": [
+      {
+        "id": "btn-1",
+        "text": "Book a Strategy Call",
+        "url": "#contact",
+        "style": "primary"
+      },
+      {
+        "id": "btn-2",
+        "text": "View Studio Portfolio",
+        "url": "#portfolio",
+        "style": "secondary"
+      }
+    ],
+    "backgroundImage": "/src/assets/images/cinematic_hero_gradient_1782310250120.jpg",
+    "bgSelection": "generated",
+    "uploadedBackgroundImage": "",
+    "starfield": {
+      "numStars": 22,
+      "speed": 0.4,
+      "minSize": 0.8,
+      "maxSize": 1.8,
+      "brightness": 1,
+      "glowIntensity": 0,
+      "accentColor": "#ffffff",
+      "enableHover": false
+    }
+  },
+  "showcase": {
+    "panel1": {
+      "media": [
+        {
+          "id": "m-sc-1",
+          "url": "/src/assets/images/comic_manga_shonen_1782307702361.jpg",
+          "type": "image"
+        },
+        {
+          "id": "m-sc-2",
+          "url": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600",
+          "type": "image"
+        },
+        {
+          "id": "m-sc-3",
+          "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+          "type": "image"
+        }
+      ],
+      "speed": 3,
+      "enabled": true
+    },
+    "panel2": {
+      "media": [
+        {
+          "id": "m-sc-4",
+          "url": "/src/assets/images/comic_cyberpunk_1782307718573.jpg",
+          "type": "image"
+        },
+        {
+          "id": "m-sc-5",
+          "url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=600",
+          "type": "image"
+        },
+        {
+          "id": "m-sc-6",
+          "url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600",
+          "type": "image"
+        }
+      ],
+      "speed": 2.5,
+      "enabled": true
+    },
+    "panel3": {
+      "media": [
+        {
+          "id": "m-sc-7",
+          "url": "/src/assets/images/comic_fantasy_1782307735870.jpg",
+          "type": "image"
+        },
+        {
+          "id": "m-sc-8",
+          "url": "https://images.unsplash.com/photo-1589254065878-42c9da997008?q=80&w=600",
+          "type": "image"
+        },
+        {
+          "id": "m-sc-9",
+          "url": "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=600",
+          "type": "image"
+        }
+      ],
+      "speed": 3.5,
+      "enabled": true
+    }
+  },
+  "services": {
+    "keywords": [
+      "Storyboarding",
+      "Character Design",
+      "Graphic Novels",
+      "Manga Creation",
+      "Visual Development",
+      "Comic Production",
+      "World Building"
+    ],
+    "speed": 15,
+    "enabled": true
+  },
+  "portfolio": {
+    "categories": [
+      "Manga",
+      "Manhwa",
+      "American Comics",
+      "Character Design",
+      "Visual Development"
+    ],
+    "projects": [
+      {
+        "id": "proj-1",
+        "title": "Shingeki no Legend",
+        "slug": "shingeki-no-legend",
+        "category": "Manga",
+        "tag": "Shonen",
+        "image": "/src/assets/images/comic_manga_shonen_1782307702361.jpg",
+        "description": "An intense action battle saga featuring high-contrast hand-drawn combat sequences and dramatic page spreads.",
+        "longDescription": "This project represents our premier shonen production capability. Working directly with Japanese publishers, we created an entire physical volume run of 200 pages. Every chapter is designed around extreme kinetic impact, heavy black inks, and a rigorous panel-to-panel flow that guides readers seamlessly through intense multi-opponent battle scenes.",
+        "client": "Tokyo Publishing Corp",
+        "year": "2025",
+        "tags": [
+          "Shonen",
+          "Action",
+          "Samurai",
+          "Traditional Ink"
+        ],
+        "galleryImages": [
+          "/src/assets/images/comic_manga_shonen_1782307702361.jpg",
+          "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600",
+          "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600"
+        ],
+        "seoTitle": "Shingeki no Legend Manga - Premium Action Sequel Work | Kaiju Studios",
+        "seoDescription": "Explore the high-contrast battle scenes, traditional ink detailing, and meticulous storyboard layout developed for Shingeki no Legend.",
+        "seoKeywords": "manga art, traditional ink, shonen, storyboard, action comics",
+        "tools": [
+          "Traditional Ink",
+          "Clip Studio Paint",
+          "Pentel Brush Pen"
+        ],
+        "visualDetails": [
+          "High-speed physical combat sequences using meticulous ink speed lines.",
+          "Intense dual-spread panels featuring complex perspective background detail.",
+          "Custom handcrafted brush texturing for visceral action impact."
+        ]
+      },
+      {
+        "id": "proj-2",
+        "title": "Neo-Tokyo Ingress",
+        "slug": "neo-tokyo-ingress",
+        "category": "American Comics",
+        "tag": "Cyberpunk",
+        "image": "/src/assets/images/comic_cyberpunk_1782307718573.jpg",
+        "description": "A premium neo-noir detective graphic novel illustrated in a hybrid western-eastern high-shadow aesthetic.",
+        "longDescription": "Neo-Tokyo Ingress is a fully colored, cinematic western-format graphic novel. Inspired by iconic cyber-thrillers and classic 1940s detective movies, we focused heavily on negative space and heavy cast shadows. We integrated custom digital halftone patterns and extreme color grading to make every scene feel atmospheric and dangerous.",
+        "client": "Dark Horizon Press",
+        "year": "2026",
+        "tags": [
+          "Cyberpunk",
+          "Sci-Fi",
+          "Detective",
+          "Colors"
+        ],
+        "galleryImages": [
+          "/src/assets/images/comic_cyberpunk_1782307718573.jpg",
+          "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=600",
+          "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600"
+        ],
+        "seoTitle": "Neo-Tokyo Ingress - Cyberpunk Graphic Novel Art | Kaiju Studios",
+        "seoDescription": "Case file review of Neo-Tokyo Ingress, an atmospheric high-contrast cyberpunk detective comic designed by Kaiju Studios.",
+        "seoKeywords": "cyberpunk comic, halftone shader, neo-noir story, digital inks",
+        "tools": [
+          "Photoshop CC",
+          "Wacom Cintiq Pro",
+          "Custom halftone brushes"
+        ],
+        "visualDetails": [
+          "Heavy film-noir shadows blended with glowing accent neon colors.",
+          "Highly detailed urban cyberpunk environment layout.",
+          "Cinematic widescreen aspect panel layout mimicking 35mm film shots."
+        ]
+      },
+      {
+        "id": "proj-3",
+        "title": "The Fallen Keepsake",
+        "slug": "the-fallen-keepsake",
+        "category": "Visual Development",
+        "tag": "Fantasy",
+        "image": "/src/assets/images/comic_fantasy_1782307735870.jpg",
+        "description": "Atmospheric environmental key art and concept development for an award-winning dark gothic fantasy saga.",
+        "longDescription": "A comprehensive world-building assignment containing environment keys, character design guides, and mood paints. We designed key locations, legendary weapons, and regional outfits to define the dark, decaying high-fantasy aesthetic prior to comic production.",
+        "client": "Epic Myth Games",
+        "year": "2025",
+        "tags": [
+          "Fantasy",
+          "Gothic",
+          "Concept Art",
+          "Landscape"
+        ],
+        "galleryImages": [
+          "/src/assets/images/comic_fantasy_1782307735870.jpg",
+          "https://images.unsplash.com/photo-1589254065878-42c9da997008?q=80&w=600",
+          "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=600"
+        ],
+        "seoTitle": "The Fallen Keepsake Dark Fantasy Visual Dev | Kaiju Studios",
+        "seoDescription": "Explore the atmospheric gothic key art, architectural layouts, and creature design guidelines for The Fallen Keepsake.",
+        "seoKeywords": "fantasy art, visual development, procreate sketch, gothic concept",
+        "tools": [
+          "iPad Pro",
+          "Procreate",
+          "Charcoal brushes"
+        ],
+        "visualDetails": [
+          "Gothic landscape layouts showcasing towering ruins and intricate architectural crosshatching.",
+          "Moody monochromatic tonal shifts conveying existential dread.",
+          "Symbolic character designs integrated seamlessly into the scenery."
+        ]
+      },
+      {
+        "id": "proj-4",
+        "title": "Ascension Leveling",
+        "slug": "ascension-leveling",
+        "category": "Manhwa",
+        "tag": "Action",
+        "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+        "description": "A scrolling web-comic optimized for mobile screens, emphasizing vibrant cell shading and spectacular magic visual effects.",
+        "longDescription": "Ascension Leveling is a modern webtoon produced fully in digital color. It features ultra-clean lineart, vibrant dynamic colors, and cinematic vertical action sequences where characters jump down from massive heights across continuous flowing frames.",
+        "client": "Line-Toons Global",
+        "year": "2026",
+        "tags": [
+          "Manhwa",
+          "Webtoon",
+          "Action",
+          "Vibrant"
+        ],
+        "galleryImages": [
+          "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+          "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600"
+        ],
+        "tools": [
+          "Clip Studio Paint EX",
+          "Huion Kamvas",
+          "Vector line stabilization"
+        ],
+        "visualDetails": [
+          "Infinite scroll layout flow with dynamic vertical panel spacing.",
+          "Vibrant high-contrast lightning and energy particle effects.",
+          "Sleek modern protagonist designs with signature stylized outfits."
+        ]
+      },
+      {
+        "id": "proj-5",
+        "title": "Vanguard Protocol",
+        "slug": "vanguard-protocol",
+        "category": "Character Design",
+        "tag": "Sci-Fi",
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600",
+        "description": "Full aesthetic development, orthographic model sheets, and custom outfit permutations for a futuristic armored squad.",
+        "longDescription": "Character model sheets detailing physical heights, weapon designs, and color-blocking schemes for a high-tech armored infantry unit. We optimized the armored shapes to maintain visual interest while keeping the design rapid to reproduce.",
+        "client": "Anima Interactive",
+        "year": "2024",
+        "tags": [
+          "Sci-Fi",
+          "Armored",
+          "Mecha",
+          "Model Sheet"
+        ],
+        "galleryImages": [
+          "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600",
+          "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=600"
+        ],
+        "tools": [
+          "Photoshop",
+          "Traditional pencil draft",
+          "ZBrush blocking"
+        ],
+        "visualDetails": [
+          "Meticulous mechanical articulation details on exoplanetary armor suits.",
+          "Distinct facial silhouette profiling to ensure strong character readability.",
+          "Detailed material render sheets highlighting carbon fiber, matte metal, and glass."
+        ]
+      },
+      {
+        "id": "proj-6",
+        "title": "Demon Core Chronicle",
+        "slug": "demon-core-chronicle",
+        "category": "Manga",
+        "tag": "Fantasy",
+        "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600",
+        "description": "Dark shonen manga detailing ancient folklore-inspired battles with massive ink wash backgrounds.",
+        "longDescription": "A classic samurai horror fantasy story. Rendered entirely in physical ink and screen tones on Kent paper. We fused traditional wash textures with high-contrast inks to create an eerie, raw folklore world.",
+        "client": "Gekkan Manga",
+        "year": "2026",
+        "tags": [
+          "Manga",
+          "Samurai",
+          "Traditional Ink",
+          "Horror"
+        ],
+        "galleryImages": [
+          "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600",
+          "https://images.unsplash.com/photo-1589254065878-42c9da997008?q=80&w=600"
+        ],
+        "tools": [
+          "Deleter Manga Ink",
+          "Maru Pen G-pen",
+          "Sumie Ink wash"
+        ],
+        "visualDetails": [
+          "Authentic Sumi-e ink washes applied to giant creature summon designs.",
+          "Detailed speed lines indicating extreme momentum and force impact.",
+          "Hand-drawn typography for custom spell chants."
+        ]
+      }
+    ]
+  },
+  "inquiry": {
+    "designerImage": "/src/assets/images/designer_workspace_1782307686622.jpg",
+    "title": "START A PROJECT",
+    "subtitle": "Looking to turn an epic vision into custom artwork, a serialized graphic novel, or high-fidelity character sheets? Pitch us your universe.",
+    "badge": "06 // ALIGNMENT CORRIDORS",
+    "description": "Ready to bring your intellectual property into definitive physical lines? Fill out the pitch dockets below, or reach out directly to our production deck.",
+    "emails": [
+      {
+        "id": "email-1",
+        "label": "GENERAL INQUIRIES & PITCHES",
+        "email": "contact@kaijustudios.com"
+      }
+    ],
+    "phones": [
+      {
+        "id": "phone-1",
+        "label": "STUDIO DIRECT LINE",
+        "phone": "+44 20 7946 0192"
+      }
+    ],
+    "hours": [
+      {
+        "id": "hr-1",
+        "days": "Monday - Friday",
+        "hours": "10:00 AM - 7:00 PM EST"
+      },
+      {
+        "id": "hr-2",
+        "days": "Saturday",
+        "hours": "11:00 AM - 4:00 PM EST"
+      },
+      {
+        "id": "hr-3",
+        "days": "Sunday",
+        "hours": "Creative Hiatus",
+        "closed": true
+      }
+    ],
+    "address": "42 Shoreditch High St, London, E1 6JJ, United Kingdom",
+    "fields": [
+      {
+        "id": "field-1",
+        "label": "Full Name",
+        "type": "text",
+        "placeholder": "e.g., Brandon Stark",
+        "required": true,
+        "width": "half"
+      },
+      {
+        "id": "field-2",
+        "label": "Email Address",
+        "type": "email",
+        "placeholder": "e.g., brandon@winterfell.com",
+        "required": true,
+        "width": "half"
+      },
+      {
+        "id": "field-3",
+        "label": "Project Category",
+        "type": "select",
+        "placeholder": "Select a project category",
+        "required": true,
+        "options": [
+          "Manga Serial",
+          "Manhwa Webtoon",
+          "American Graphic Novel",
+          "Character Design / Concepts",
+          "Other Custom Illustration"
+        ],
+        "width": "full"
+      },
+      {
+        "id": "field-4",
+        "label": "Project Budget Range",
+        "type": "select",
+        "placeholder": "Estimate your production budget",
+        "required": true,
+        "options": [
+          "$2,500 - $5,000",
+          "$5,000 - $15,000",
+          "$15,000 - $50,000",
+          "$50,000+"
+        ],
+        "width": "full"
+      },
+      {
+        "id": "field-5",
+        "label": "Brief Narrative Pitch / Scope",
+        "type": "textarea",
+        "placeholder": "Describe your world, key characters, script status, and any specific deadlines...",
+        "required": true,
+        "width": "full"
+      }
+    ]
+  },
+  "process": {
+    "title": "CREATIVE WORKFLOW",
+    "subtitle": "Our battle-tested pipeline ensures world-class illustrative execution from preliminary script to finalized high-resolution press delivery.",
+    "steps": [
+      {
+        "id": "step-1",
+        "stepNumber": "01",
+        "title": "Discovery & Narrative Alignment",
+        "description": "We breakdown your scripts, outlines, and character references to align on style direction, page limits, panel layouts, and cultural vibes."
+      },
+      {
+        "id": "step-2",
+        "stepNumber": "02",
+        "title": "Storyboarding & Name Stage",
+        "description": "Rough thumbnail sketches (Nemutai/Name stage) are designed to map narrative tempo, camera lens dynamics, readable speech bubbles, and raw panel impact."
+      },
+      {
+        "id": "step-3",
+        "stepNumber": "03",
+        "title": "Penciling & Concept Refining",
+        "description": "We draft high-fidelity anatomical outlines and environment mockups. Character model sheets are finalized and locked in from all core view angles."
+      },
+      {
+        "id": "step-4",
+        "stepNumber": "04",
+        "title": "Inking & Halftone Texturing",
+        "description": "The definitive creative step. We draw ultra-crisp digital or physical ink contours, laying down screen tones, crosshatching, or dynamic cell-shading."
+      },
+      {
+        "id": "step-5",
+        "stepNumber": "05",
+        "title": "Formatting & Speech Lettering",
+        "description": "Panels are customized for printing or scrolling webtoon containers. Clean custom-licensed typography, balloon trails, and SFX lettering are perfectly integrated."
+      },
+      {
+        "id": "step-6",
+        "stepNumber": "06",
+        "title": "Refinement & Master Delivery",
+        "description": "Rigorous color grading and pre-press inspection. High-resolution multi-layer master files are delivered ready for instant distribution, publication, or printing."
+      }
+    ]
+  },
+  "metrics": {
+    "featuredImage": "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=1200",
+    "stats": [
+      {
+        "id": "stat-1",
+        "label": "Projects Delivered",
+        "value": 180,
+        "suffix": "+"
+      },
+      {
+        "id": "stat-2",
+        "label": "Active Clients",
+        "value": 42,
+        "suffix": ""
+      },
+      {
+        "id": "stat-3",
+        "label": "Countries Served",
+        "value": 15,
+        "suffix": "+"
+      },
+      {
+        "id": "stat-4",
+        "label": "Average Rating",
+        "value": 4.9,
+        "suffix": ""
+      },
+      {
+        "id": "stat-5",
+        "label": "Returning Clients",
+        "value": 94,
+        "suffix": "%"
+      }
+    ]
+  },
+  "blog": {
+    "categories": [
+      "Industry Insights",
+      "Comic Production",
+      "Storytelling",
+      "Character Design",
+      "Manga",
+      "Studio Updates",
+      "Tutorials"
+    ],
+    "tags": [
+      "crosshatching",
+      "inking",
+      "screentones",
+      "techniques",
+      "webtoons",
+      "scrolling",
+      "layouts",
+      "mobile",
+      "outfits",
+      "silhouette",
+      "character-design",
+      "protagonist"
+    ],
+    "articles": [
+      {
+        "id": "blog-1",
+        "title": "The Art of Black & White Crosshatching in Comic Production",
+        "excerpt": "Delve deep into manual pen shading techniques and digital screen-toning to add maximum depth, grit, and drama to your manga spreads.",
+        "content": "Manga and black-and-white comic production rely heavily on line weight, contrast, and texturing to convey shadows, materials, and mood without the aid of a color palette.\n\n### 1. The G-Pen: The Standard of High Impact\nThe classic Japanese G-pen remains the champion of dramatic dynamic lines. It is incredibly responsive to downward hand pressure, letting you transition from hairline details to deep, heavy contours in a single continuous stroke.\n\n### 2. The Science of Crosshatching\nHatching is not simply drawing random grids. It is about contour wrap.\n- **Directional Lines**: Hatch lines must curve slightly along the form of the muscles or armor to reinforce three-dimensional depth.\n- **Gradient Density**: Increase density closer to core shadow boundaries to create smooth, high-contrast values.\n\n### 3. Screen Toning (Halftones)\nHalftones mimic physical printed ink dots. Using Clip Studio Paint or Photoshop, keep your halftone frequencies between 50L and 65L. Higher frequencies can cause 'moire patterns' when downscaled on mobile web displays.",
+        "date": "June 18, 2026",
+        "readTime": "5 min read",
+        "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600",
+        "author": "Keiji Sato",
+        "category": "Comic Production",
+        "tags": [
+          "crosshatching",
+          "inking",
+          "screentones",
+          "techniques"
+        ],
+        "seoTitle": "The Art of Black & White Crosshatching Guide | Kaiju Studios",
+        "seoDescription": "Delve deep into professional manga crosshatching, line weights, and digital screen-toning.",
+        "seoKeywords": "manga, inking, crosshatching, screentones, layout"
+      },
+      {
+        "id": "blog-2",
+        "title": "Infinite Scroll: Crafting Webtoons vs. Traditional Page Layouts",
+        "excerpt": "An agency guide to transition from standard landscape panels to seamless vertical mobile scroll layouts without losing cinematic suspense.",
+        "content": "Webtoon vertical scroll layouts are dominating modern comic consumption. However, designing for an infinite canvas requires a complete paradigm shift in visual storytelling.\n\n### 1. Panel Spacing as a Temporal Controller\nIn traditional comics, readers scan a page in Z-fashion. In vertical scrolling, panel spacing directly dictates time:\n- **Tight gaps (10px - 50px)**: Fast, frantic action.\n- **Long gaps (150px - 300px)**: Deep dramatic pauses, heavy silence, or a long fall.\n\n### 2. Gutter Color and Atmosphere\n- **White Gutters**: Lighthearted, cheerful, everyday slice-of-life scenes.\n- **Black Gutters**: Heavy suspense, mystery, underground cyberpunk alleys, or magical sequences.\n\n### 3. Layering Overlapping Panels\nUsing transparent overlapping elements (e.g., character hair or magical energy bursting out of panel borders) guides the readers eyes downwards, pulling them further into the story.",
+        "date": "May 14, 2026",
+        "readTime": "7 min read",
+        "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+        "author": "Elena Rostova",
+        "category": "Storytelling",
+        "tags": [
+          "webtoons",
+          "scrolling",
+          "layouts",
+          "mobile"
+        ],
+        "seoTitle": "Infinite Scroll & Webtoon Layoutsus Design Guide | Kaiju Studios",
+        "seoDescription": "Professional studio tips on spacing vertical comic frames to maximize suspension and reader retention.",
+        "seoKeywords": "webtoon layout, mobile scrolling, comic suspense, visual story"
+      },
+      {
+        "id": "blog-3",
+        "title": "World-Building: Designing Iconic Outfits for Manga Protagonists",
+        "excerpt": "Learn how silhouette theory and repetitive emblem design can make your comic characters instantly recognizable from any visual distance.",
+        "content": "Whether you look at Son Goku, Naruto, or Spider-Man, the most legendary comic characters have one key thing in common: an instantly recognizable silhouette and a distinctive, simple visual identity.\n\n### 1. The Silhouette Test\nCan you identify your character purely by their shadow? If their hair, clothing, or companion items do not create a unique silhouette profile, your design is too generic.\n\n### 2. Color Accents & Color Blocking\nKeep your main character's design limited to two primary base colors and a single sharp accent. In black-and-white print, this translates to:\n- Solid Black blocks\n- Clean White blocks\n- Distinct Halftone textures or heavy pattern stamps\n\n### 3. Practical Utility\nEnsure the characters outfit is quick to draw. If your comic runs for 100 chapters, you will have to draw this outfit thousands of times. Avoid excessive belts, buckles, or hyper-complex patterns that slow down weekly production deadlines.",
+        "date": "April 22, 2026",
+        "readTime": "4 min read",
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600",
+        "author": "Marcus Vance",
+        "category": "Character Design",
+        "tags": [
+          "outfits",
+          "silhouette",
+          "character-design",
+          "protagonist"
+        ],
+        "seoTitle": "World-Building: Iconic Manga Outfit Design | Kaiju Studios",
+        "seoDescription": "Master silhouette theory, color blocking, and drawing speed guidelines for character concept art.",
+        "seoKeywords": "character design, manga outfit, silhouette, comic concept art"
+      }
+    ]
+  },
+  "testimonials": {
+    "items": [
+      {
+        "id": "test-1",
+        "quote": "Kaiju Studios completely re-engineered our gaming franchise concept artwork. Their black-and-white draft ink panels feel like high-end art museum assets. Truly professional in every single revision cycle.",
+        "author": "Alistair Sterling",
+        "role": "Director of IP Development",
+        "company": "Nova Interactive Games",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150"
+      },
+      {
+        "id": "test-2",
+        "quote": "Finding illustrators who understand storyboards, speed line dynamic pressure, and clean layout flow for standard Japanese manga formatting is exceptionally rare. Kaiju is a gold-standard agency.",
+        "author": "Yuki Takahashi",
+        "role": "Editor-in-Chief",
+        "company": "Shogun Manga Bunko",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=150"
+      },
+      {
+        "id": "test-3",
+        "quote": "Our cyber-thriller webtoon hit over 1.5 million vertical scroll reads on Launch Week. The lettering layout and suspense-spacing Kaiju built kept readers glued page after page.",
+        "author": "Sarah Jenkins",
+        "role": "Co-Creator",
+        "company": "Nexa Comics Platform",
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=150"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "What is your typical production timeframe for a single comic issue?",
+        "answer": "For a standard 22-page comic book or equivalent 60-panel webtoon, our typical pipeline spans 4 to 6 weeks. This includes thumbnail layouts (1 week), high-fidelity pencils (1-2 weeks), definitive ink renderings (1-2 weeks), and final speech lettering and quality checks (1 week)."
+      },
+      {
+        "id": "faq-2",
+        "question": "Do we retain full intellectual property (IP) rights to the final designs?",
+        "answer": "Yes. Unless agreed otherwise under special publishing co-ownership, all characters, scripts, panel layouts, and final artwork we produce are delivered to you with 100% full commercial intellectual property rights. We only retain the right to showcase selection layouts in our studio portfolio."
+      },
+      {
+        "id": "faq-3",
+        "question": "Do you work in full color or only in monochrome black and white?",
+        "answer": "While our signature studio aesthetic is high-contrast, premium 90% monochrome, we are fully equipped for luxury digital coloring, atmospheric cel-shading, and neon-wash grading, particularly for Manhwa webtoons and cinematic cover art."
+      },
+      {
+        "id": "faq-4",
+        "question": "Can you handle both digital webtoons and traditional print-ready formats?",
+        "answer": "Absolutely. We configure our canvas resolutions to at least 600 DPI for print files (TIFF/PSD with CMYK profiles) and build customized scrolling formats (HTML slice, PNG with RGB) optimized for mobile comic platforms like LINE Webtoon or Tapas."
+      },
+      {
+        "id": "faq-5",
+        "question": "Do you offer custom lettering, speech balloon placements, and sound FX drafting?",
+        "answer": "Yes. Speech balloon mapping is handled directly in our penciling phase to ensure text never covers vital character action or facial expressions. We offer bespoke sound FX drawing and localized lettering services in multiple languages."
+      }
+    ]
+  },
+  "footer": {
+    "aboutText": "Kaiju Studios is an elite international sequential creative agency delivering premium manga, concept development, and graphic novels with high-contrast, hand-inked aesthetic precision.",
+    "email": "production@kaijustudios.com",
+    "phone": "+1 (800) 902-KAJU",
+    "address": "Creative District, Suite 900, New York, NY 10013",
+    "copyright": "© 2026 KAIJU STUDIOS. All Rights Reserved.",
+    "socials": [
+      {
+        "id": "soc-instagram",
+        "name": "Instagram",
+        "icon": "Instagram",
+        "url": "https://instagram.com/kaiju_studios",
+        "visible": true
+      },
+      {
+        "id": "soc-twitter",
+        "name": "X / Twitter",
+        "icon": "Twitter",
+        "url": "https://twitter.com/kaiju_studios",
+        "visible": true
+      },
+      {
+        "id": "soc-linkedin",
+        "name": "LinkedIn",
+        "icon": "Linkedin",
+        "url": "https://linkedin.com/company/kaiju_studios",
+        "visible": true
+      },
+      {
+        "id": "soc-artstation",
+        "name": "ArtStation",
+        "icon": "Palette",
+        "url": "https://artstation.com/kaiju_studios",
+        "visible": true
+      },
+      {
+        "id": "soc-behance",
+        "name": "Behance",
+        "icon": "Globe",
+        "url": "https://behance.net/kaiju_studios",
+        "visible": true
+      },
+      {
+        "id": "soc-dribbble",
+        "name": "Dribbble",
+        "icon": "Figma",
+        "url": "https://dribbble.com/kaiju_studios",
+        "visible": true
+      },
+      {
+        "id": "soc-pinterest",
+        "name": "Pinterest",
+        "icon": "Pin",
+        "url": "https://pinterest.com/kaiju_studios",
+        "visible": false
+      }
+    ]
+  },
+  "audio": {
+    "enabledGlobally": false,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  "mediaLibrary": [
+    {
+      "id": "lib-1",
+      "name": "Designer Workspace Studio",
+      "url": "/src/assets/images/designer_workspace_1782307686622.jpg",
+      "type": "image",
+      "uploadedAt": "2026-06-24"
+    },
+    {
+      "id": "lib-2",
+      "name": "Shonen Manga Cover Spread",
+      "url": "/src/assets/images/comic_manga_shonen_1782307702361.jpg",
+      "type": "image",
+      "uploadedAt": "2026-06-24"
+    },
+    {
+      "id": "lib-3",
+      "name": "Cyberpunk Noir Panel Art",
+      "url": "/src/assets/images/comic_cyberpunk_1782307718573.jpg",
+      "type": "image",
+      "uploadedAt": "2026-06-24"
+    },
+    {
+      "id": "lib-4",
+      "name": "Gothic Dark Fantasy Scene",
+      "url": "/src/assets/images/comic_fantasy_1782307735870.jpg",
+      "type": "image",
+      "uploadedAt": "2026-06-24"
+    },
+    {
+      "id": "lib-5",
+      "name": "Creative Tokyo Team Reviews",
+      "url": "/src/assets/images/studio_team_discussion_1782312722466.jpg",
+      "type": "image",
+      "uploadedAt": "2026-06-24"
+    },
+    {
+      "id": "lib-6",
+      "name": "Ink Draft Charcoal Sketch",
+      "url": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=600",
+      "type": "image",
+      "uploadedAt": "2026-06-24"
+    },
+    {
+      "id": "lib-7",
+      "name": "Dystopian Mech Concept Sketch",
+      "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+      "type": "image",
+      "uploadedAt": "2026-06-24"
+    }
+  ],
+  "homepageLayout": [
+    {
+      "id": "hero",
+      "name": "Hero Header Banner",
+      "enabled": true
+    },
+    {
+      "id": "showcase",
+      "name": "Comic Showcase Reels",
+      "enabled": true
+    },
+    {
+      "id": "services",
+      "name": "Moving Keywords Marquee",
+      "enabled": true
+    },
+    {
+      "id": "portfolio",
+      "name": "Featured Portfolio Grid",
+      "enabled": true
+    },
+    {
+      "id": "process",
+      "name": "Creative Workflow Pipeline",
+      "enabled": true
+    },
+    {
+      "id": "metrics",
+      "name": "Studio Achievements & Counter",
+      "enabled": true
+    },
+    {
+      "id": "testimonials",
+      "name": "Client Testimonials Panel",
+      "enabled": true
+    },
+    {
+      "id": "faq",
+      "name": "FAQ Accordion Deck",
+      "enabled": true
+    },
+    {
+      "id": "inquiry",
+      "name": "Start a Project Form",
+      "enabled": true
+    }
+  ],
+  "studioPage": {
+    "bannerImage": "/src/assets/images/studio_team_discussion_1782312722466.jpg",
+    "headline": "KAIJU STUDIOS",
+    "subtitle": "Founded as an alliance of elite storyboard directors, manga ink specialists, and western pencilers, we bridge high-contrast art-house aesthetic precision with industrial-scale publication output.",
+    "philosophyTitle": "A REFUSAL OF REPETITIVE TEMPLATES",
+    "philosophyText": "We started Kaiju Studios because we grew tired of sterile, formulaic digital comic styling. The comic industry is experiencing a surge in demand, yet artistic depth is frequently sacrificed for sheer quantity. Our studio approaches every project as a bespoke creative challenge. We construct distinct visual dictionaries for each universe, blending classic Japanese brushwork techniques, heavy western ink washes, and cutting-edge digital post-processing tools. Whether it is an intimate dystopian slice-of-life or a sprawling intergalactic fantasy epic, the art will be unmistakably premium.",
+    "philosophySubPoints": [
+      {
+        "title": "CORE VALUES",
+        "desc": "We believe that strong narrative flow and layout integrity are non-negotiable. Every panel must justify its weight and spacing.",
+        "icon": "Compass"
+      },
+      {
+        "title": "STUDIO CULTURE",
+        "desc": "A high-trust collaborative atmosphere where illustrators, inkers, and visual artists experiment with extreme lighting and cinematic lensing.",
+        "icon": "Lightbulb"
+      }
+    ],
+    "values": [
+      {
+        "id": "val-1",
+        "title": "ANATOMICAL INTEGRITY & IMPACT",
+        "description": "We believe that powerful visual momentum starts with perfect physical weight. Every dynamic battle pose, atmospheric frame, and subtle expression is grounded in rigorous anatomical drafting.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "id": "val-2",
+        "title": "CINEMATIC PANELS & LENSING",
+        "description": "A great comic is a great movie on paper. We utilize advanced cinematography rules—extreme wide-angle layouts, telephoto focal compressions, and Dutch-angle horizons—to control reading momentum.",
+        "icon": "Compass"
+      },
+      {
+        "id": "val-3",
+        "title": "THE RITUAL OF RAW INK",
+        "description": "While our pipeline is digital, our soul is hand-drawn. We celebrate the deep contrast, heavy crosshatching, and crisp line weights that have defined sequential storytelling for generations.",
+        "icon": "BookOpen"
+      },
+      {
+        "id": "val-4",
+        "title": "SEQUENTIAL PACING DYNAMICS",
+        "description": "The gutter (the blank space between panels) is where the reader's imagination works. We masterfully adjust panel shapes and vertical spacing to accelerate action or suspend emotional weight.",
+        "icon": "Users"
+      }
+    ],
+    "ctaTitle": "HAVE A UNIVERSE TO BUILD?",
+    "ctaDescription": "Our storyboard and illustration specialists are ready to collaborate on your serialized manga, webtoon, or character sheets. Let's make something outstanding.",
+    "ctaBtnText": "View Full Portfolio",
+    "ctaImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=1200"
+  },
+  "globalSettings": {
+    "websiteName": "STUDIO KAIJU",
+    "studioName": "Kaiju Studios",
+    "appName": "Kaiju CMS",
+    "logoUrl": "",
+    "faviconUrl": "",
+    "browserTitle": "STUDIO KAIJU | Premium Comic Art & Manga Agency",
+    "defaultTimezone": "GMT+1",
+    "contactEmail": "contact@kaijustudios.com",
+    "contactPhone": "+44 20 7946 0192",
+    "companyAddress": "42 Shoreditch High St, London, E1 6JJ, United Kingdom"
+  },
+  "analytics": {
+    "totalVisitors": 15977,
+    "todayVisitors": 222,
+    "weeklyVisitors": 1401,
+    "monthlyVisitors": 5482,
+    "buttonClicks": 8270,
+    "portfolioViews": 12087,
+    "contactSubmissions": 1806,
+    "bounceRate": 34.5,
+    "ctr": 51.8,
+    "countries": [
+      {
+        "country": "United Kingdom",
+        "visits": 5769,
+        "percentage": 36
+      },
+      {
+        "country": "United States",
+        "visits": 3976,
+        "percentage": 25
+      },
+      {
+        "country": "Japan",
+        "visits": 2875,
+        "percentage": 18
+      },
+      {
+        "country": "Germany",
+        "visits": 1749,
+        "percentage": 11
+      },
+      {
+        "country": "Canada",
+        "visits": 823,
+        "percentage": 5
+      },
+      {
+        "country": "France",
+        "visits": 605,
+        "percentage": 4
+      },
+      {
+        "country": "Australia",
+        "visits": 180,
+        "percentage": 1
+      }
+    ],
+    "dayLogs": [
+      {
+        "date": "2026-03-23",
+        "visitors": 212,
+        "pageViews": {
+          "home": 311,
+          "portfolio": 138,
+          "studio": 74,
+          "blog": 142,
+          "contact": 53
+        },
+        "buttonClicks": {
+          "view_portfolio": 72,
+          "book_a_call": 9,
+          "contact_us": 23
+        },
+        "countries": {
+          "United Kingdom": 77,
+          "United States": 55,
+          "Japan": 38,
+          "Germany": 23,
+          "Canada": 10,
+          "France": 6,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 85,
+            "macOS": 73,
+            "Linux": 0,
+            "Android": 34,
+            "iOS": 39
+          },
+          "deviceType": {
+            "desktop": 156,
+            "mobile": 56,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 124,
+            "Edge": 21,
+            "Firefox": 25,
+            "Safari": 59,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 10,
+          "bookCall": 3,
+          "newsletter": 15
+        },
+        "projectViews": {
+          "proj-1": 41,
+          "proj-2": 35,
+          "proj-3": 25,
+          "proj-4": 22,
+          "proj-5": 10,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 95
+      },
+      {
+        "date": "2026-03-24",
+        "visitors": 217,
+        "pageViews": {
+          "home": 312,
+          "portfolio": 150,
+          "studio": 107,
+          "blog": 115,
+          "contact": 45
+        },
+        "buttonClicks": {
+          "view_portfolio": 72,
+          "book_a_call": 8,
+          "contact_us": 19
+        },
+        "countries": {
+          "United Kingdom": 75,
+          "United States": 58,
+          "Japan": 37,
+          "Germany": 23,
+          "Canada": 15,
+          "France": 6,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 85,
+            "macOS": 67,
+            "Linux": 0,
+            "Android": 26,
+            "iOS": 45
+          },
+          "deviceType": {
+            "desktop": 159,
+            "mobile": 65,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 124,
+            "Edge": 22,
+            "Firefox": 23,
+            "Safari": 54,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 3,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 47,
+          "proj-2": 36,
+          "proj-3": 28,
+          "proj-4": 19,
+          "proj-5": 13,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 66
+      },
+      {
+        "date": "2026-03-25",
+        "visitors": 143,
+        "pageViews": {
+          "home": 199,
+          "portfolio": 103,
+          "studio": 48,
+          "blog": 84,
+          "contact": 49
+        },
+        "buttonClicks": {
+          "view_portfolio": 42,
+          "book_a_call": 8,
+          "contact_us": 20
+        },
+        "countries": {
+          "United Kingdom": 52,
+          "United States": 38,
+          "Japan": 26,
+          "Germany": 15,
+          "Canada": 6,
+          "France": 6
+        },
+        "devices": {
+          "os": {
+            "Windows": 52,
+            "macOS": 47,
+            "Linux": 0,
+            "Android": 21,
+            "iOS": 29
+          },
+          "deviceType": {
+            "desktop": 102,
+            "mobile": 40,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 78,
+            "Edge": 15,
+            "Firefox": 15,
+            "Safari": 40,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 10,
+          "bookCall": 3,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 30,
+          "proj-2": 23,
+          "proj-3": 17,
+          "proj-4": 17,
+          "proj-5": 12,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 83
+      },
+      {
+        "date": "2026-03-26",
+        "visitors": 186,
+        "pageViews": {
+          "home": 260,
+          "portfolio": 166,
+          "studio": 88,
+          "blog": 108,
+          "contact": 52
+        },
+        "buttonClicks": {
+          "view_portfolio": 90,
+          "book_a_call": 11,
+          "contact_us": 23
+        },
+        "countries": {
+          "United Kingdom": 66,
+          "United States": 44,
+          "Japan": 37,
+          "Germany": 17,
+          "Canada": 12,
+          "France": 7,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 73,
+            "macOS": 65,
+            "Linux": 0,
+            "Android": 28,
+            "iOS": 39
+          },
+          "deviceType": {
+            "desktop": 136,
+            "mobile": 55,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 106,
+            "Edge": 22,
+            "Firefox": 20,
+            "Safari": 46,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 62,
+          "proj-2": 37,
+          "proj-3": 29,
+          "proj-4": 20,
+          "proj-5": 13,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 121
+      },
+      {
+        "date": "2026-03-27",
+        "visitors": 209,
+        "pageViews": {
+          "home": 310,
+          "portfolio": 154,
+          "studio": 84,
+          "blog": 124,
+          "contact": 43
+        },
+        "buttonClicks": {
+          "view_portfolio": 74,
+          "book_a_call": 8,
+          "contact_us": 17
+        },
+        "countries": {
+          "United Kingdom": 76,
+          "United States": 52,
+          "Japan": 40,
+          "Germany": 26,
+          "Canada": 11,
+          "France": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 80,
+            "macOS": 70,
+            "Linux": 0,
+            "Android": 30,
+            "iOS": 46
+          },
+          "deviceType": {
+            "desktop": 144,
+            "mobile": 53,
+            "tablet": 12
+          },
+          "browser": {
+            "Chrome": 117,
+            "Edge": 24,
+            "Firefox": 21,
+            "Safari": 51,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 3,
+          "newsletter": 12
+        },
+        "projectViews": {
+          "proj-1": 48,
+          "proj-2": 35,
+          "proj-3": 32,
+          "proj-4": 22,
+          "proj-5": 11,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 91
+      },
+      {
+        "date": "2026-03-28",
+        "visitors": 69,
+        "pageViews": {
+          "home": 95,
+          "portfolio": 52,
+          "studio": 30,
+          "blog": 31,
+          "contact": 19
+        },
+        "buttonClicks": {
+          "view_portfolio": 28,
+          "book_a_call": 5,
+          "contact_us": 8
+        },
+        "countries": {
+          "United Kingdom": 23,
+          "United States": 18,
+          "Japan": 12,
+          "Germany": 8,
+          "Canada": 4,
+          "France": 2,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 27,
+            "macOS": 23,
+            "Linux": 0,
+            "Android": 9,
+            "iOS": 14
+          },
+          "deviceType": {
+            "desktop": 50,
+            "mobile": 19,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 41,
+            "Edge": 7,
+            "Firefox": 9,
+            "Safari": 18,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 3,
+          "bookCall": 2,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 16,
+          "proj-2": 13,
+          "proj-3": 11,
+          "proj-4": 7,
+          "proj-5": 5
+        },
+        "averageTimeSpent": 75
+      },
+      {
+        "date": "2026-03-29",
+        "visitors": 83,
+        "pageViews": {
+          "home": 102,
+          "portfolio": 57,
+          "studio": 39,
+          "blog": 55,
+          "contact": 22
+        },
+        "buttonClicks": {
+          "view_portfolio": 31,
+          "book_a_call": 5,
+          "contact_us": 9
+        },
+        "countries": {
+          "United Kingdom": 29,
+          "United States": 22,
+          "Japan": 16,
+          "Germany": 9,
+          "Canada": 3,
+          "France": 2,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 31,
+            "macOS": 30,
+            "Linux": 0,
+            "Android": 13,
+            "iOS": 17
+          },
+          "deviceType": {
+            "desktop": 61,
+            "mobile": 21,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 46,
+            "Edge": 9,
+            "Firefox": 8,
+            "Safari": 20,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 3,
+          "bookCall": 2,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 17,
+          "proj-2": 13,
+          "proj-3": 11,
+          "proj-4": 8,
+          "proj-5": 5,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 102
+      },
+      {
+        "date": "2026-03-30",
+        "visitors": 187,
+        "pageViews": {
+          "home": 260,
+          "portfolio": 144,
+          "studio": 63,
+          "blog": 128,
+          "contact": 41
+        },
+        "buttonClicks": {
+          "view_portfolio": 65,
+          "book_a_call": 10,
+          "contact_us": 14
+        },
+        "countries": {
+          "United Kingdom": 66,
+          "United States": 49,
+          "Japan": 34,
+          "Germany": 23,
+          "Canada": 6,
+          "France": 9
+        },
+        "devices": {
+          "os": {
+            "Windows": 77,
+            "macOS": 57,
+            "Linux": 0,
+            "Android": 25,
+            "iOS": 39
+          },
+          "deviceType": {
+            "desktop": 131,
+            "mobile": 57,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 102,
+            "Edge": 20,
+            "Firefox": 22,
+            "Safari": 50,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 3,
+          "newsletter": 11
+        },
+        "projectViews": {
+          "proj-1": 42,
+          "proj-2": 37,
+          "proj-3": 27,
+          "proj-4": 17,
+          "proj-5": 17,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 101
+      },
+      {
+        "date": "2026-03-31",
+        "visitors": 198,
+        "pageViews": {
+          "home": 287,
+          "portfolio": 163,
+          "studio": 92,
+          "blog": 115,
+          "contact": 55
+        },
+        "buttonClicks": {
+          "view_portfolio": 68,
+          "book_a_call": 13,
+          "contact_us": 17
+        },
+        "countries": {
+          "United Kingdom": 70,
+          "United States": 49,
+          "Japan": 36,
+          "Germany": 23,
+          "Canada": 12,
+          "France": 8
+        },
+        "devices": {
+          "os": {
+            "Windows": 78,
+            "macOS": 71,
+            "Linux": 0,
+            "Android": 30,
+            "iOS": 42
+          },
+          "deviceType": {
+            "desktop": 138,
+            "mobile": 61,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 110,
+            "Edge": 18,
+            "Firefox": 20,
+            "Safari": 53,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 6,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 48,
+          "proj-2": 43,
+          "proj-3": 31,
+          "proj-4": 20,
+          "proj-5": 17,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 88
+      },
+      {
+        "date": "2026-04-01",
+        "visitors": 165,
+        "pageViews": {
+          "home": 225,
+          "portfolio": 115,
+          "studio": 71,
+          "blog": 93,
+          "contact": 48
+        },
+        "buttonClicks": {
+          "view_portfolio": 51,
+          "book_a_call": 10,
+          "contact_us": 18
+        },
+        "countries": {
+          "United Kingdom": 62,
+          "United States": 40,
+          "Japan": 29,
+          "Germany": 21,
+          "Canada": 7,
+          "France": 4,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 67,
+            "macOS": 56,
+            "Linux": 0,
+            "Android": 24,
+            "iOS": 30
+          },
+          "deviceType": {
+            "desktop": 121,
+            "mobile": 47,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 97,
+            "Edge": 18,
+            "Firefox": 17,
+            "Safari": 43,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 4,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 37,
+          "proj-2": 25,
+          "proj-3": 22,
+          "proj-4": 17,
+          "proj-5": 11,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 91
+      },
+      {
+        "date": "2026-04-02",
+        "visitors": 146,
+        "pageViews": {
+          "home": 176,
+          "portfolio": 122,
+          "studio": 72,
+          "blog": 61,
+          "contact": 31
+        },
+        "buttonClicks": {
+          "view_portfolio": 52,
+          "book_a_call": 8,
+          "contact_us": 10
+        },
+        "countries": {
+          "United Kingdom": 56,
+          "United States": 35,
+          "Japan": 25,
+          "Germany": 15,
+          "Canada": 5,
+          "France": 6,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 54,
+            "macOS": 52,
+            "Linux": 0,
+            "Android": 23,
+            "iOS": 31
+          },
+          "deviceType": {
+            "desktop": 103,
+            "mobile": 44,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 85,
+            "Edge": 14,
+            "Firefox": 18,
+            "Safari": 42,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 2,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 34,
+          "proj-2": 29,
+          "proj-3": 24,
+          "proj-4": 19,
+          "proj-5": 14,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 105
+      },
+      {
+        "date": "2026-04-03",
+        "visitors": 142,
+        "pageViews": {
+          "home": 209,
+          "portfolio": 100,
+          "studio": 69,
+          "blog": 77,
+          "contact": 30
+        },
+        "buttonClicks": {
+          "view_portfolio": 47,
+          "book_a_call": 7,
+          "contact_us": 13
+        },
+        "countries": {
+          "United Kingdom": 49,
+          "United States": 33,
+          "Japan": 26,
+          "Germany": 18,
+          "Canada": 8,
+          "France": 6,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 52,
+            "macOS": 46,
+            "Linux": 0,
+            "Android": 23,
+            "iOS": 29
+          },
+          "deviceType": {
+            "desktop": 101,
+            "mobile": 37,
+            "tablet": 4
+          },
+          "browser": {
+            "Chrome": 82,
+            "Edge": 14,
+            "Firefox": 16,
+            "Safari": 40,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 3,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 29,
+          "proj-2": 25,
+          "proj-3": 19,
+          "proj-4": 13,
+          "proj-5": 7,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 126
+      },
+      {
+        "date": "2026-04-04",
+        "visitors": 83,
+        "pageViews": {
+          "home": 114,
+          "portfolio": 52,
+          "studio": 27,
+          "blog": 51,
+          "contact": 29
+        },
+        "buttonClicks": {
+          "view_portfolio": 27,
+          "book_a_call": 7,
+          "contact_us": 9
+        },
+        "countries": {
+          "United Kingdom": 36,
+          "United States": 19,
+          "Japan": 14,
+          "Germany": 8,
+          "Canada": 3,
+          "France": 2,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 35,
+            "macOS": 27,
+            "Linux": 0,
+            "Android": 11,
+            "iOS": 16
+          },
+          "deviceType": {
+            "desktop": 61,
+            "mobile": 25,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 45,
+            "Edge": 8,
+            "Firefox": 11,
+            "Safari": 22,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 3,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 16,
+          "proj-2": 14,
+          "proj-3": 10,
+          "proj-4": 7,
+          "proj-5": 5
+        },
+        "averageTimeSpent": 91
+      },
+      {
+        "date": "2026-04-05",
+        "visitors": 65,
+        "pageViews": {
+          "home": 85,
+          "portfolio": 49,
+          "studio": 20,
+          "blog": 42,
+          "contact": 14
+        },
+        "buttonClicks": {
+          "view_portfolio": 24,
+          "book_a_call": 2,
+          "contact_us": 5
+        },
+        "countries": {
+          "United Kingdom": 24,
+          "United States": 16,
+          "Japan": 11,
+          "Germany": 8,
+          "Canada": 2,
+          "France": 3,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 24,
+            "macOS": 23,
+            "Linux": 0,
+            "Android": 8,
+            "iOS": 13
+          },
+          "deviceType": {
+            "desktop": 47,
+            "mobile": 17,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 38,
+            "Edge": 7,
+            "Firefox": 8,
+            "Safari": 17,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 2,
+          "bookCall": 1,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 15,
+          "proj-2": 12,
+          "proj-3": 9,
+          "proj-4": 6,
+          "proj-5": 5,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 77
+      },
+      {
+        "date": "2026-04-06",
+        "visitors": 162,
+        "pageViews": {
+          "home": 229,
+          "portfolio": 131,
+          "studio": 69,
+          "blog": 86,
+          "contact": 46
+        },
+        "buttonClicks": {
+          "view_portfolio": 56,
+          "book_a_call": 11,
+          "contact_us": 20
+        },
+        "countries": {
+          "United Kingdom": 56,
+          "United States": 40,
+          "Japan": 27,
+          "Germany": 15,
+          "Canada": 11,
+          "France": 9,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 62,
+            "macOS": 58,
+            "Linux": 0,
+            "Android": 22,
+            "iOS": 33
+          },
+          "deviceType": {
+            "desktop": 113,
+            "mobile": 48,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 96,
+            "Edge": 19,
+            "Firefox": 21,
+            "Safari": 45,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 11
+        },
+        "projectViews": {
+          "proj-1": 35,
+          "proj-2": 34,
+          "proj-3": 26,
+          "proj-4": 19,
+          "proj-5": 13,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 54
+      },
+      {
+        "date": "2026-04-07",
+        "visitors": 139,
+        "pageViews": {
+          "home": 192,
+          "portfolio": 90,
+          "studio": 43,
+          "blog": 87,
+          "contact": 32
+        },
+        "buttonClicks": {
+          "view_portfolio": 45,
+          "book_a_call": 5,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 53,
+          "United States": 35,
+          "Japan": 23,
+          "Germany": 15,
+          "Canada": 7,
+          "France": 4,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 51,
+            "macOS": 48,
+            "Linux": 0,
+            "Android": 20,
+            "iOS": 29
+          },
+          "deviceType": {
+            "desktop": 99,
+            "mobile": 42,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 76,
+            "Edge": 14,
+            "Firefox": 17,
+            "Safari": 37,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 2,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 29,
+          "proj-2": 21,
+          "proj-3": 17,
+          "proj-4": 11,
+          "proj-5": 8,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 106
+      },
+      {
+        "date": "2026-04-08",
+        "visitors": 174,
+        "pageViews": {
+          "home": 243,
+          "portfolio": 125,
+          "studio": 79,
+          "blog": 115,
+          "contact": 48
+        },
+        "buttonClicks": {
+          "view_portfolio": 65,
+          "book_a_call": 11,
+          "contact_us": 16
+        },
+        "countries": {
+          "United Kingdom": 66,
+          "United States": 41,
+          "Japan": 28,
+          "Germany": 22,
+          "Canada": 6,
+          "France": 6,
+          "Australia": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 63,
+            "macOS": 54,
+            "Linux": 0,
+            "Android": 27,
+            "iOS": 38
+          },
+          "deviceType": {
+            "desktop": 123,
+            "mobile": 49,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 98,
+            "Edge": 21,
+            "Firefox": 20,
+            "Safari": 48,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 5,
+          "newsletter": 12
+        },
+        "projectViews": {
+          "proj-1": 43,
+          "proj-2": 27,
+          "proj-3": 22,
+          "proj-4": 16,
+          "proj-5": 13,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 83
+      },
+      {
+        "date": "2026-04-09",
+        "visitors": 224,
+        "pageViews": {
+          "home": 282,
+          "portfolio": 160,
+          "studio": 77,
+          "blog": 94,
+          "contact": 59
+        },
+        "buttonClicks": {
+          "view_portfolio": 83,
+          "book_a_call": 14,
+          "contact_us": 19
+        },
+        "countries": {
+          "United Kingdom": 84,
+          "United States": 55,
+          "Japan": 40,
+          "Germany": 22,
+          "Canada": 12,
+          "France": 10,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 87,
+            "macOS": 80,
+            "Linux": 0,
+            "Android": 33,
+            "iOS": 42
+          },
+          "deviceType": {
+            "desktop": 159,
+            "mobile": 66,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 133,
+            "Edge": 24,
+            "Firefox": 29,
+            "Safari": 54,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 6,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 48,
+          "proj-2": 37,
+          "proj-3": 33,
+          "proj-4": 21,
+          "proj-5": 16,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 113
+      },
+      {
+        "date": "2026-04-10",
+        "visitors": 133,
+        "pageViews": {
+          "home": 185,
+          "portfolio": 101,
+          "studio": 55,
+          "blog": 89,
+          "contact": 43
+        },
+        "buttonClicks": {
+          "view_portfolio": 43,
+          "book_a_call": 9,
+          "contact_us": 18
+        },
+        "countries": {
+          "United Kingdom": 44,
+          "United States": 35,
+          "Japan": 24,
+          "Germany": 16,
+          "Canada": 9,
+          "France": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 55,
+            "macOS": 42,
+            "Linux": 0,
+            "Android": 21,
+            "iOS": 24
+          },
+          "deviceType": {
+            "desktop": 94,
+            "mobile": 38,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 74,
+            "Edge": 15,
+            "Firefox": 16,
+            "Safari": 38,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 3,
+          "newsletter": 4
+        },
+        "projectViews": {
+          "proj-1": 28,
+          "proj-2": 23,
+          "proj-3": 21,
+          "proj-4": 16,
+          "proj-5": 9,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 128
+      },
+      {
+        "date": "2026-04-11",
+        "visitors": 107,
+        "pageViews": {
+          "home": 136,
+          "portfolio": 74,
+          "studio": 47,
+          "blog": 62,
+          "contact": 28
+        },
+        "buttonClicks": {
+          "view_portfolio": 32,
+          "book_a_call": 6,
+          "contact_us": 10
+        },
+        "countries": {
+          "United Kingdom": 39,
+          "United States": 25,
+          "Japan": 20,
+          "Germany": 13,
+          "Canada": 6,
+          "France": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 39,
+            "macOS": 32,
+            "Linux": 0,
+            "Android": 17,
+            "iOS": 23
+          },
+          "deviceType": {
+            "desktop": 76,
+            "mobile": 32,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 63,
+            "Edge": 12,
+            "Firefox": 12,
+            "Safari": 28,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 2,
+          "newsletter": 4
+        },
+        "projectViews": {
+          "proj-1": 23,
+          "proj-2": 18,
+          "proj-3": 15,
+          "proj-4": 12,
+          "proj-5": 6
+        },
+        "averageTimeSpent": 111
+      },
+      {
+        "date": "2026-04-12",
+        "visitors": 68,
+        "pageViews": {
+          "home": 84,
+          "portfolio": 42,
+          "studio": 21,
+          "blog": 44,
+          "contact": 19
+        },
+        "buttonClicks": {
+          "view_portfolio": 18,
+          "book_a_call": 3,
+          "contact_us": 8
+        },
+        "countries": {
+          "United Kingdom": 25,
+          "United States": 18,
+          "Japan": 11,
+          "Germany": 8,
+          "Canada": 4,
+          "France": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 29,
+            "macOS": 21,
+            "Linux": 0,
+            "Android": 10,
+            "iOS": 13
+          },
+          "deviceType": {
+            "desktop": 47,
+            "mobile": 19,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 38,
+            "Edge": 8,
+            "Firefox": 7,
+            "Safari": 17,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 3,
+          "bookCall": 1,
+          "newsletter": 2
+        },
+        "projectViews": {
+          "proj-1": 12,
+          "proj-2": 10,
+          "proj-3": 9,
+          "proj-4": 6,
+          "proj-5": 3,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 84
+      },
+      {
+        "date": "2026-04-13",
+        "visitors": 134,
+        "pageViews": {
+          "home": 191,
+          "portfolio": 102,
+          "studio": 50,
+          "blog": 93,
+          "contact": 34
+        },
+        "buttonClicks": {
+          "view_portfolio": 53,
+          "book_a_call": 7,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 49,
+          "United States": 31,
+          "Japan": 24,
+          "Germany": 13,
+          "Canada": 8,
+          "France": 5,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 50,
+            "macOS": 44,
+            "Linux": 0,
+            "Android": 21,
+            "iOS": 27
+          },
+          "deviceType": {
+            "desktop": 95,
+            "mobile": 37,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 73,
+            "Edge": 16,
+            "Firefox": 15,
+            "Safari": 35,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 3,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 33,
+          "proj-2": 22,
+          "proj-3": 17,
+          "proj-4": 14,
+          "proj-5": 9,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 125
+      },
+      {
+        "date": "2026-04-14",
+        "visitors": 135,
+        "pageViews": {
+          "home": 192,
+          "portfolio": 91,
+          "studio": 51,
+          "blog": 63,
+          "contact": 27
+        },
+        "buttonClicks": {
+          "view_portfolio": 37,
+          "book_a_call": 5,
+          "contact_us": 10
+        },
+        "countries": {
+          "United Kingdom": 49,
+          "United States": 36,
+          "Japan": 25,
+          "Germany": 13,
+          "Canada": 7,
+          "France": 4,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 50,
+            "macOS": 41,
+            "Linux": 0,
+            "Android": 19,
+            "iOS": 28
+          },
+          "deviceType": {
+            "desktop": 97,
+            "mobile": 39,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 75,
+            "Edge": 14,
+            "Firefox": 15,
+            "Safari": 38,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 2,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 28,
+          "proj-2": 21,
+          "proj-3": 16,
+          "proj-4": 11,
+          "proj-5": 11,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 67
+      },
+      {
+        "date": "2026-04-15",
+        "visitors": 199,
+        "pageViews": {
+          "home": 242,
+          "portfolio": 152,
+          "studio": 91,
+          "blog": 107,
+          "contact": 44
+        },
+        "buttonClicks": {
+          "view_portfolio": 64,
+          "book_a_call": 7,
+          "contact_us": 18
+        },
+        "countries": {
+          "United Kingdom": 76,
+          "United States": 47,
+          "Japan": 34,
+          "Germany": 19,
+          "Canada": 12,
+          "France": 9,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 74,
+            "macOS": 69,
+            "Linux": 0,
+            "Android": 24,
+            "iOS": 43
+          },
+          "deviceType": {
+            "desktop": 140,
+            "mobile": 58,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 115,
+            "Edge": 22,
+            "Firefox": 23,
+            "Safari": 52,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 3,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 46,
+          "proj-2": 35,
+          "proj-3": 28,
+          "proj-4": 23,
+          "proj-5": 16,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 107
+      },
+      {
+        "date": "2026-04-16",
+        "visitors": 158,
+        "pageViews": {
+          "home": 233,
+          "portfolio": 137,
+          "studio": 50,
+          "blog": 110,
+          "contact": 35
+        },
+        "buttonClicks": {
+          "view_portfolio": 69,
+          "book_a_call": 7,
+          "contact_us": 15
+        },
+        "countries": {
+          "United Kingdom": 55,
+          "United States": 40,
+          "Japan": 29,
+          "Germany": 17,
+          "Canada": 7,
+          "France": 8,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 66,
+            "macOS": 52,
+            "Linux": 0,
+            "Android": 25,
+            "iOS": 34
+          },
+          "deviceType": {
+            "desktop": 109,
+            "mobile": 43,
+            "tablet": 6
+          },
+          "browser": {
+            "Chrome": 88,
+            "Edge": 18,
+            "Firefox": 20,
+            "Safari": 41,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 3,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 39,
+          "proj-2": 31,
+          "proj-3": 26,
+          "proj-4": 21,
+          "proj-5": 15,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 101
+      },
+      {
+        "date": "2026-04-17",
+        "visitors": 177,
+        "pageViews": {
+          "home": 217,
+          "portfolio": 107,
+          "studio": 88,
+          "blog": 92,
+          "contact": 61
+        },
+        "buttonClicks": {
+          "view_portfolio": 47,
+          "book_a_call": 10,
+          "contact_us": 20
+        },
+        "countries": {
+          "United Kingdom": 65,
+          "United States": 45,
+          "Japan": 29,
+          "Germany": 22,
+          "Canada": 6,
+          "France": 10
+        },
+        "devices": {
+          "os": {
+            "Windows": 67,
+            "macOS": 59,
+            "Linux": 0,
+            "Android": 25,
+            "iOS": 32
+          },
+          "deviceType": {
+            "desktop": 127,
+            "mobile": 50,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 102,
+            "Edge": 17,
+            "Firefox": 22,
+            "Safari": 51,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 33,
+          "proj-2": 27,
+          "proj-3": 18,
+          "proj-4": 16,
+          "proj-5": 9,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 50
+      },
+      {
+        "date": "2026-04-18",
+        "visitors": 98,
+        "pageViews": {
+          "home": 137,
+          "portfolio": 79,
+          "studio": 47,
+          "blog": 56,
+          "contact": 28
+        },
+        "buttonClicks": {
+          "view_portfolio": 33,
+          "book_a_call": 6,
+          "contact_us": 10
+        },
+        "countries": {
+          "United Kingdom": 36,
+          "United States": 26,
+          "Japan": 19,
+          "Germany": 9,
+          "Canada": 3,
+          "France": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 39,
+            "macOS": 29,
+            "Linux": 0,
+            "Android": 15,
+            "iOS": 21
+          },
+          "deviceType": {
+            "desktop": 69,
+            "mobile": 26,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 55,
+            "Edge": 11,
+            "Firefox": 13,
+            "Safari": 24,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 2,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 24,
+          "proj-2": 19,
+          "proj-3": 13,
+          "proj-4": 12,
+          "proj-5": 7,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 126
+      },
+      {
+        "date": "2026-04-19",
+        "visitors": 93,
+        "pageViews": {
+          "home": 128,
+          "portfolio": 57,
+          "studio": 43,
+          "blog": 43,
+          "contact": 20
+        },
+        "buttonClicks": {
+          "view_portfolio": 29,
+          "book_a_call": 4,
+          "contact_us": 7
+        },
+        "countries": {
+          "United Kingdom": 34,
+          "United States": 23,
+          "Japan": 16,
+          "Germany": 11,
+          "Canada": 3,
+          "France": 5,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 36,
+            "macOS": 29,
+            "Linux": 0,
+            "Android": 14,
+            "iOS": 18
+          },
+          "deviceType": {
+            "desktop": 64,
+            "mobile": 27,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 51,
+            "Edge": 11,
+            "Firefox": 11,
+            "Safari": 24,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 3,
+          "bookCall": 1,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 16,
+          "proj-2": 14,
+          "proj-3": 10,
+          "proj-4": 9,
+          "proj-5": 6,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 107
+      },
+      {
+        "date": "2026-04-20",
+        "visitors": 131,
+        "pageViews": {
+          "home": 157,
+          "portfolio": 103,
+          "studio": 42,
+          "blog": 66,
+          "contact": 34
+        },
+        "buttonClicks": {
+          "view_portfolio": 53,
+          "book_a_call": 5,
+          "contact_us": 14
+        },
+        "countries": {
+          "United Kingdom": 47,
+          "United States": 31,
+          "Japan": 25,
+          "Germany": 15,
+          "Canada": 8,
+          "France": 4,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 49,
+            "macOS": 41,
+            "Linux": 0,
+            "Android": 20,
+            "iOS": 29
+          },
+          "deviceType": {
+            "desktop": 94,
+            "mobile": 40,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 76,
+            "Edge": 15,
+            "Firefox": 14,
+            "Safari": 38,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 2,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 29,
+          "proj-2": 24,
+          "proj-3": 18,
+          "proj-4": 16,
+          "proj-5": 11,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 86
+      },
+      {
+        "date": "2026-04-21",
+        "visitors": 135,
+        "pageViews": {
+          "home": 199,
+          "portfolio": 120,
+          "studio": 43,
+          "blog": 79,
+          "contact": 30
+        },
+        "buttonClicks": {
+          "view_portfolio": 65,
+          "book_a_call": 6,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 48,
+          "United States": 35,
+          "Japan": 23,
+          "Germany": 17,
+          "Canada": 5,
+          "France": 7
+        },
+        "devices": {
+          "os": {
+            "Windows": 50,
+            "macOS": 48,
+            "Linux": 0,
+            "Android": 18,
+            "iOS": 29
+          },
+          "deviceType": {
+            "desktop": 100,
+            "mobile": 39,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 74,
+            "Edge": 13,
+            "Firefox": 17,
+            "Safari": 38,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 2,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 37,
+          "proj-2": 29,
+          "proj-3": 22,
+          "proj-4": 19,
+          "proj-5": 13
+        },
+        "averageTimeSpent": 129
+      },
+      {
+        "date": "2026-04-22",
+        "visitors": 216,
+        "pageViews": {
+          "home": 265,
+          "portfolio": 153,
+          "studio": 81,
+          "blog": 101,
+          "contact": 65
+        },
+        "buttonClicks": {
+          "view_portfolio": 67,
+          "book_a_call": 11,
+          "contact_us": 28
+        },
+        "countries": {
+          "United Kingdom": 77,
+          "United States": 52,
+          "Japan": 41,
+          "Germany": 25,
+          "Canada": 10,
+          "France": 7,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 86,
+            "macOS": 70,
+            "Linux": 0,
+            "Android": 31,
+            "iOS": 45
+          },
+          "deviceType": {
+            "desktop": 154,
+            "mobile": 56,
+            "tablet": 6
+          },
+          "browser": {
+            "Chrome": 125,
+            "Edge": 25,
+            "Firefox": 24,
+            "Safari": 56,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 12,
+          "bookCall": 3,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 45,
+          "proj-2": 38,
+          "proj-3": 29,
+          "proj-4": 22,
+          "proj-5": 18,
+          "proj-6": 1
+        },
+        "averageTimeSpent": 122
+      },
+      {
+        "date": "2026-04-23",
+        "visitors": 167,
+        "pageViews": {
+          "home": 200,
+          "portfolio": 146,
+          "studio": 74,
+          "blog": 78,
+          "contact": 38
+        },
+        "buttonClicks": {
+          "view_portfolio": 74,
+          "book_a_call": 7,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 62,
+          "United States": 42,
+          "Japan": 33,
+          "Germany": 15,
+          "Canada": 7,
+          "France": 4,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 65,
+            "macOS": 57,
+            "Linux": 0,
+            "Android": 24,
+            "iOS": 33
+          },
+          "deviceType": {
+            "desktop": 117,
+            "mobile": 50,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 91,
+            "Edge": 17,
+            "Firefox": 20,
+            "Safari": 40,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 3,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 48,
+          "proj-2": 33,
+          "proj-3": 31,
+          "proj-4": 18,
+          "proj-5": 10,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 93
+      },
+      {
+        "date": "2026-04-24",
+        "visitors": 193,
+        "pageViews": {
+          "home": 246,
+          "portfolio": 125,
+          "studio": 91,
+          "blog": 97,
+          "contact": 49
+        },
+        "buttonClicks": {
+          "view_portfolio": 63,
+          "book_a_call": 10,
+          "contact_us": 18
+        },
+        "countries": {
+          "United Kingdom": 74,
+          "United States": 46,
+          "Japan": 34,
+          "Germany": 21,
+          "Canada": 7,
+          "France": 11
+        },
+        "devices": {
+          "os": {
+            "Windows": 75,
+            "macOS": 63,
+            "Linux": 0,
+            "Android": 29,
+            "iOS": 36
+          },
+          "deviceType": {
+            "desktop": 139,
+            "mobile": 59,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 108,
+            "Edge": 22,
+            "Firefox": 23,
+            "Safari": 53,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 35,
+          "proj-2": 32,
+          "proj-3": 23,
+          "proj-4": 18,
+          "proj-5": 9,
+          "proj-6": 8
+        },
+        "averageTimeSpent": 130
+      },
+      {
+        "date": "2026-04-25",
+        "visitors": 91,
+        "pageViews": {
+          "home": 130,
+          "portfolio": 60,
+          "studio": 29,
+          "blog": 56,
+          "contact": 28
+        },
+        "buttonClicks": {
+          "view_portfolio": 26,
+          "book_a_call": 5,
+          "contact_us": 13
+        },
+        "countries": {
+          "United Kingdom": 32,
+          "United States": 23,
+          "Japan": 15,
+          "Germany": 11,
+          "Canada": 4,
+          "France": 4,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 38,
+            "macOS": 33,
+            "Linux": 0,
+            "Android": 14,
+            "iOS": 19
+          },
+          "deviceType": {
+            "desktop": 63,
+            "mobile": 23,
+            "tablet": 5
+          },
+          "browser": {
+            "Chrome": 53,
+            "Edge": 10,
+            "Firefox": 9,
+            "Safari": 26,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 2,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 17,
+          "proj-2": 14,
+          "proj-3": 12,
+          "proj-4": 9,
+          "proj-5": 6,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 69
+      },
+      {
+        "date": "2026-04-26",
+        "visitors": 111,
+        "pageViews": {
+          "home": 143,
+          "portfolio": 73,
+          "studio": 54,
+          "blog": 53,
+          "contact": 33
+        },
+        "buttonClicks": {
+          "view_portfolio": 30,
+          "book_a_call": 7,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 42,
+          "United States": 28,
+          "Japan": 20,
+          "Germany": 11,
+          "Canada": 5,
+          "France": 4,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 44,
+            "macOS": 37,
+            "Linux": 0,
+            "Android": 17,
+            "iOS": 22
+          },
+          "deviceType": {
+            "desktop": 79,
+            "mobile": 33,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 63,
+            "Edge": 12,
+            "Firefox": 14,
+            "Safari": 28,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 3,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 23,
+          "proj-2": 16,
+          "proj-3": 15,
+          "proj-4": 12,
+          "proj-5": 5,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 61
+      },
+      {
+        "date": "2026-04-27",
+        "visitors": 242,
+        "pageViews": {
+          "home": 315,
+          "portfolio": 192,
+          "studio": 75,
+          "blog": 161,
+          "contact": 82
+        },
+        "buttonClicks": {
+          "view_portfolio": 103,
+          "book_a_call": 14,
+          "contact_us": 27
+        },
+        "countries": {
+          "United Kingdom": 95,
+          "United States": 62,
+          "Japan": 43,
+          "Germany": 23,
+          "Canada": 8,
+          "France": 9,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 97,
+            "macOS": 83,
+            "Linux": 0,
+            "Android": 33,
+            "iOS": 51
+          },
+          "deviceType": {
+            "desktop": 169,
+            "mobile": 63,
+            "tablet": 10
+          },
+          "browser": {
+            "Chrome": 145,
+            "Edge": 26,
+            "Firefox": 31,
+            "Safari": 65,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 11,
+          "bookCall": 6,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 55,
+          "proj-2": 49,
+          "proj-3": 33,
+          "proj-4": 28,
+          "proj-5": 20,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 94
+      },
+      {
+        "date": "2026-04-28",
+        "visitors": 229,
+        "pageViews": {
+          "home": 310,
+          "portfolio": 186,
+          "studio": 93,
+          "blog": 143,
+          "contact": 70
+        },
+        "buttonClicks": {
+          "view_portfolio": 93,
+          "book_a_call": 17,
+          "contact_us": 27
+        },
+        "countries": {
+          "United Kingdom": 85,
+          "United States": 57,
+          "Japan": 38,
+          "Germany": 26,
+          "Canada": 8,
+          "France": 13,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 84,
+            "macOS": 72,
+            "Linux": 0,
+            "Android": 34,
+            "iOS": 45
+          },
+          "deviceType": {
+            "desktop": 161,
+            "mobile": 58,
+            "tablet": 10
+          },
+          "browser": {
+            "Chrome": 128,
+            "Edge": 23,
+            "Firefox": 25,
+            "Safari": 65,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 10,
+          "bookCall": 7,
+          "newsletter": 12
+        },
+        "projectViews": {
+          "proj-1": 57,
+          "proj-2": 43,
+          "proj-3": 32,
+          "proj-4": 30,
+          "proj-5": 17,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 63
+      },
+      {
+        "date": "2026-04-29",
+        "visitors": 183,
+        "pageViews": {
+          "home": 248,
+          "portfolio": 150,
+          "studio": 71,
+          "blog": 96,
+          "contact": 45
+        },
+        "buttonClicks": {
+          "view_portfolio": 81,
+          "book_a_call": 9,
+          "contact_us": 19
+        },
+        "countries": {
+          "United Kingdom": 60,
+          "United States": 44,
+          "Japan": 36,
+          "Germany": 18,
+          "Canada": 11,
+          "France": 10,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 70,
+            "macOS": 56,
+            "Linux": 0,
+            "Android": 25,
+            "iOS": 38
+          },
+          "deviceType": {
+            "desktop": 129,
+            "mobile": 54,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 109,
+            "Edge": 21,
+            "Firefox": 20,
+            "Safari": 44,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 4,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 46,
+          "proj-2": 37,
+          "proj-3": 30,
+          "proj-4": 23,
+          "proj-5": 14
+        },
+        "averageTimeSpent": 117
+      },
+      {
+        "date": "2026-04-30",
+        "visitors": 169,
+        "pageViews": {
+          "home": 209,
+          "portfolio": 131,
+          "studio": 56,
+          "blog": 118,
+          "contact": 51
+        },
+        "buttonClicks": {
+          "view_portfolio": 66,
+          "book_a_call": 13,
+          "contact_us": 21
+        },
+        "countries": {
+          "United Kingdom": 59,
+          "United States": 43,
+          "Japan": 33,
+          "Germany": 16,
+          "Canada": 11,
+          "France": 6,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 65,
+            "macOS": 51,
+            "Linux": 0,
+            "Android": 22,
+            "iOS": 36
+          },
+          "deviceType": {
+            "desktop": 118,
+            "mobile": 48,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 100,
+            "Edge": 16,
+            "Firefox": 20,
+            "Safari": 42,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 5,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 40,
+          "proj-2": 34,
+          "proj-3": 22,
+          "proj-4": 21,
+          "proj-5": 14
+        },
+        "averageTimeSpent": 78
+      },
+      {
+        "date": "2026-05-01",
+        "visitors": 242,
+        "pageViews": {
+          "home": 305,
+          "portfolio": 172,
+          "studio": 103,
+          "blog": 164,
+          "contact": 75
+        },
+        "buttonClicks": {
+          "view_portfolio": 81,
+          "book_a_call": 13,
+          "contact_us": 31
+        },
+        "countries": {
+          "United Kingdom": 83,
+          "United States": 62,
+          "Japan": 43,
+          "Germany": 26,
+          "Canada": 11,
+          "France": 13,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 96,
+            "macOS": 80,
+            "Linux": 0,
+            "Android": 32,
+            "iOS": 46
+          },
+          "deviceType": {
+            "desktop": 172,
+            "mobile": 61,
+            "tablet": 9
+          },
+          "browser": {
+            "Chrome": 135,
+            "Edge": 26,
+            "Firefox": 31,
+            "Safari": 66,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 15,
+          "bookCall": 4,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 52,
+          "proj-2": 42,
+          "proj-3": 30,
+          "proj-4": 25,
+          "proj-5": 16,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 104
+      },
+      {
+        "date": "2026-05-02",
+        "visitors": 90,
+        "pageViews": {
+          "home": 133,
+          "portfolio": 68,
+          "studio": 44,
+          "blog": 37,
+          "contact": 19
+        },
+        "buttonClicks": {
+          "view_portfolio": 31,
+          "book_a_call": 3,
+          "contact_us": 7
+        },
+        "countries": {
+          "United Kingdom": 33,
+          "United States": 23,
+          "Japan": 17,
+          "Germany": 9,
+          "Canada": 3,
+          "France": 3,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 36,
+            "macOS": 31,
+            "Linux": 0,
+            "Android": 11,
+            "iOS": 18
+          },
+          "deviceType": {
+            "desktop": 62,
+            "mobile": 23,
+            "tablet": 5
+          },
+          "browser": {
+            "Chrome": 52,
+            "Edge": 10,
+            "Firefox": 10,
+            "Safari": 23,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 3,
+          "bookCall": 1,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 21,
+          "proj-2": 18,
+          "proj-3": 12,
+          "proj-4": 10,
+          "proj-5": 6,
+          "proj-6": 1
+        },
+        "averageTimeSpent": 116
+      },
+      {
+        "date": "2026-05-03",
+        "visitors": 77,
+        "pageViews": {
+          "home": 99,
+          "portfolio": 57,
+          "studio": 30,
+          "blog": 53,
+          "contact": 23
+        },
+        "buttonClicks": {
+          "view_portfolio": 23,
+          "book_a_call": 5,
+          "contact_us": 7
+        },
+        "countries": {
+          "United Kingdom": 27,
+          "United States": 21,
+          "Japan": 14,
+          "Germany": 8,
+          "Canada": 5,
+          "France": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 32,
+            "macOS": 24,
+            "Linux": 0,
+            "Android": 12,
+            "iOS": 15
+          },
+          "deviceType": {
+            "desktop": 56,
+            "mobile": 23,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 45,
+            "Edge": 8,
+            "Firefox": 8,
+            "Safari": 20,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 2,
+          "bookCall": 2,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 16,
+          "proj-2": 14,
+          "proj-3": 10,
+          "proj-4": 9,
+          "proj-5": 5,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 93
+      },
+      {
+        "date": "2026-05-04",
+        "visitors": 206,
+        "pageViews": {
+          "home": 270,
+          "portfolio": 161,
+          "studio": 94,
+          "blog": 110,
+          "contact": 66
+        },
+        "buttonClicks": {
+          "view_portfolio": 70,
+          "book_a_call": 11,
+          "contact_us": 29
+        },
+        "countries": {
+          "United Kingdom": 74,
+          "United States": 49,
+          "Japan": 40,
+          "Germany": 22,
+          "Canada": 11,
+          "France": 10
+        },
+        "devices": {
+          "os": {
+            "Windows": 76,
+            "macOS": 67,
+            "Linux": 0,
+            "Android": 28,
+            "iOS": 42
+          },
+          "deviceType": {
+            "desktop": 149,
+            "mobile": 59,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 118,
+            "Edge": 20,
+            "Firefox": 21,
+            "Safari": 56,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 14,
+          "bookCall": 5,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 50,
+          "proj-2": 39,
+          "proj-3": 34,
+          "proj-4": 21,
+          "proj-5": 17
+        },
+        "averageTimeSpent": 122
+      },
+      {
+        "date": "2026-05-05",
+        "visitors": 198,
+        "pageViews": {
+          "home": 250,
+          "portfolio": 151,
+          "studio": 88,
+          "blog": 108,
+          "contact": 69
+        },
+        "buttonClicks": {
+          "view_portfolio": 65,
+          "book_a_call": 11,
+          "contact_us": 27
+        },
+        "countries": {
+          "United Kingdom": 72,
+          "United States": 53,
+          "Japan": 33,
+          "Germany": 24,
+          "Canada": 10,
+          "France": 6
+        },
+        "devices": {
+          "os": {
+            "Windows": 73,
+            "macOS": 66,
+            "Linux": 0,
+            "Android": 28,
+            "iOS": 38
+          },
+          "deviceType": {
+            "desktop": 142,
+            "mobile": 55,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 112,
+            "Edge": 18,
+            "Firefox": 21,
+            "Safari": 57,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 13,
+          "bookCall": 4,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 41,
+          "proj-2": 37,
+          "proj-3": 32,
+          "proj-4": 22,
+          "proj-5": 12,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 81
+      },
+      {
+        "date": "2026-05-06",
+        "visitors": 144,
+        "pageViews": {
+          "home": 178,
+          "portfolio": 88,
+          "studio": 58,
+          "blog": 60,
+          "contact": 45
+        },
+        "buttonClicks": {
+          "view_portfolio": 40,
+          "book_a_call": 9,
+          "contact_us": 20
+        },
+        "countries": {
+          "United Kingdom": 52,
+          "United States": 35,
+          "Japan": 24,
+          "Germany": 18,
+          "Canada": 10,
+          "France": 4,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 56,
+            "macOS": 49,
+            "Linux": 0,
+            "Android": 19,
+            "iOS": 29
+          },
+          "deviceType": {
+            "desktop": 100,
+            "mobile": 43,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 78,
+            "Edge": 17,
+            "Firefox": 19,
+            "Safari": 39,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 3,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 25,
+          "proj-2": 19,
+          "proj-3": 18,
+          "proj-4": 14,
+          "proj-5": 6,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 110
+      },
+      {
+        "date": "2026-05-07",
+        "visitors": 212,
+        "pageViews": {
+          "home": 264,
+          "portfolio": 178,
+          "studio": 86,
+          "blog": 121,
+          "contact": 66
+        },
+        "buttonClicks": {
+          "view_portfolio": 88,
+          "book_a_call": 10,
+          "contact_us": 23
+        },
+        "countries": {
+          "United Kingdom": 78,
+          "United States": 49,
+          "Japan": 36,
+          "Germany": 23,
+          "Canada": 11,
+          "France": 12,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 84,
+            "macOS": 75,
+            "Linux": 0,
+            "Android": 29,
+            "iOS": 42
+          },
+          "deviceType": {
+            "desktop": 154,
+            "mobile": 60,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 126,
+            "Edge": 20,
+            "Firefox": 22,
+            "Safari": 53,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 4,
+          "newsletter": 12
+        },
+        "projectViews": {
+          "proj-1": 62,
+          "proj-2": 40,
+          "proj-3": 32,
+          "proj-4": 22,
+          "proj-5": 13,
+          "proj-6": 9
+        },
+        "averageTimeSpent": 126
+      },
+      {
+        "date": "2026-05-08",
+        "visitors": 233,
+        "pageViews": {
+          "home": 317,
+          "portfolio": 201,
+          "studio": 72,
+          "blog": 129,
+          "contact": 50
+        },
+        "buttonClicks": {
+          "view_portfolio": 86,
+          "book_a_call": 8,
+          "contact_us": 17
+        },
+        "countries": {
+          "United Kingdom": 86,
+          "United States": 58,
+          "Japan": 38,
+          "Germany": 24,
+          "Canada": 9,
+          "France": 11,
+          "Australia": 7
+        },
+        "devices": {
+          "os": {
+            "Windows": 86,
+            "macOS": 75,
+            "Linux": 0,
+            "Android": 32,
+            "iOS": 48
+          },
+          "deviceType": {
+            "desktop": 164,
+            "mobile": 64,
+            "tablet": 5
+          },
+          "browser": {
+            "Chrome": 132,
+            "Edge": 22,
+            "Firefox": 24,
+            "Safari": 65,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 3,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 60,
+          "proj-2": 49,
+          "proj-3": 33,
+          "proj-4": 27,
+          "proj-5": 21,
+          "proj-6": 11
+        },
+        "averageTimeSpent": 86
+      },
+      {
+        "date": "2026-05-09",
+        "visitors": 83,
+        "pageViews": {
+          "home": 120,
+          "portfolio": 52,
+          "studio": 35,
+          "blog": 57,
+          "contact": 28
+        },
+        "buttonClicks": {
+          "view_portfolio": 27,
+          "book_a_call": 5,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 31,
+          "United States": 20,
+          "Japan": 16,
+          "Germany": 8,
+          "Canada": 4,
+          "France": 3,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 33,
+            "macOS": 30,
+            "Linux": 0,
+            "Android": 11,
+            "iOS": 15
+          },
+          "deviceType": {
+            "desktop": 60,
+            "mobile": 23,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 49,
+            "Edge": 8,
+            "Firefox": 10,
+            "Safari": 23,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 2,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 15,
+          "proj-2": 12,
+          "proj-3": 11,
+          "proj-4": 9,
+          "proj-5": 5
+        },
+        "averageTimeSpent": 64
+      },
+      {
+        "date": "2026-05-10",
+        "visitors": 95,
+        "pageViews": {
+          "home": 119,
+          "portfolio": 81,
+          "studio": 42,
+          "blog": 48,
+          "contact": 32
+        },
+        "buttonClicks": {
+          "view_portfolio": 44,
+          "book_a_call": 7,
+          "contact_us": 13
+        },
+        "countries": {
+          "United Kingdom": 32,
+          "United States": 24,
+          "Japan": 17,
+          "Germany": 10,
+          "Canada": 6,
+          "France": 6
+        },
+        "devices": {
+          "os": {
+            "Windows": 34,
+            "macOS": 31,
+            "Linux": 0,
+            "Android": 15,
+            "iOS": 20
+          },
+          "deviceType": {
+            "desktop": 69,
+            "mobile": 29,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 53,
+            "Edge": 9,
+            "Firefox": 11,
+            "Safari": 25,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 3,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 22,
+          "proj-2": 20,
+          "proj-3": 16,
+          "proj-4": 10,
+          "proj-5": 9,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 92
+      },
+      {
+        "date": "2026-05-11",
+        "visitors": 158,
+        "pageViews": {
+          "home": 222,
+          "portfolio": 110,
+          "studio": 59,
+          "blog": 82,
+          "contact": 43
+        },
+        "buttonClicks": {
+          "view_portfolio": 60,
+          "book_a_call": 10,
+          "contact_us": 18
+        },
+        "countries": {
+          "United Kingdom": 56,
+          "United States": 39,
+          "Japan": 30,
+          "Germany": 20,
+          "Canada": 8,
+          "France": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 61,
+            "macOS": 57,
+            "Linux": 0,
+            "Android": 23,
+            "iOS": 33
+          },
+          "deviceType": {
+            "desktop": 115,
+            "mobile": 45,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 91,
+            "Edge": 17,
+            "Firefox": 16,
+            "Safari": 42,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 4,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 34,
+          "proj-2": 25,
+          "proj-3": 22,
+          "proj-4": 14,
+          "proj-5": 9,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 129
+      },
+      {
+        "date": "2026-05-12",
+        "visitors": 148,
+        "pageViews": {
+          "home": 194,
+          "portfolio": 94,
+          "studio": 58,
+          "blog": 98,
+          "contact": 49
+        },
+        "buttonClicks": {
+          "view_portfolio": 49,
+          "book_a_call": 9,
+          "contact_us": 18
+        },
+        "countries": {
+          "United Kingdom": 52,
+          "United States": 34,
+          "Japan": 29,
+          "Germany": 19,
+          "Canada": 9,
+          "France": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 61,
+            "macOS": 51,
+            "Linux": 0,
+            "Android": 18,
+            "iOS": 31
+          },
+          "deviceType": {
+            "desktop": 104,
+            "mobile": 41,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 83,
+            "Edge": 13,
+            "Firefox": 19,
+            "Safari": 40,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 4,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 30,
+          "proj-2": 21,
+          "proj-3": 17,
+          "proj-4": 12,
+          "proj-5": 10,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 117
+      },
+      {
+        "date": "2026-05-13",
+        "visitors": 224,
+        "pageViews": {
+          "home": 307,
+          "portfolio": 157,
+          "studio": 97,
+          "blog": 98,
+          "contact": 68
+        },
+        "buttonClicks": {
+          "view_portfolio": 69,
+          "book_a_call": 16,
+          "contact_us": 24
+        },
+        "countries": {
+          "United Kingdom": 78,
+          "United States": 56,
+          "Japan": 42,
+          "Germany": 24,
+          "Canada": 14,
+          "France": 9,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 92,
+            "macOS": 75,
+            "Linux": 0,
+            "Android": 30,
+            "iOS": 44
+          },
+          "deviceType": {
+            "desktop": 153,
+            "mobile": 64,
+            "tablet": 7
+          },
+          "browser": {
+            "Chrome": 130,
+            "Edge": 24,
+            "Firefox": 23,
+            "Safari": 57,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 10,
+          "bookCall": 7,
+          "newsletter": 15
+        },
+        "projectViews": {
+          "proj-1": 44,
+          "proj-2": 38,
+          "proj-3": 31,
+          "proj-4": 21,
+          "proj-5": 18,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 88
+      },
+      {
+        "date": "2026-05-14",
+        "visitors": 239,
+        "pageViews": {
+          "home": 352,
+          "portfolio": 189,
+          "studio": 87,
+          "blog": 160,
+          "contact": 77
+        },
+        "buttonClicks": {
+          "view_portfolio": 97,
+          "book_a_call": 16,
+          "contact_us": 33
+        },
+        "countries": {
+          "United Kingdom": 87,
+          "United States": 61,
+          "Japan": 45,
+          "Germany": 24,
+          "Canada": 15,
+          "France": 6,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 94,
+            "macOS": 78,
+            "Linux": 0,
+            "Android": 34,
+            "iOS": 47
+          },
+          "deviceType": {
+            "desktop": 172,
+            "mobile": 72,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 136,
+            "Edge": 25,
+            "Firefox": 26,
+            "Safari": 61,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 16,
+          "bookCall": 7,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 57,
+          "proj-2": 44,
+          "proj-3": 35,
+          "proj-4": 29,
+          "proj-5": 20,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 94
+      },
+      {
+        "date": "2026-05-15",
+        "visitors": 217,
+        "pageViews": {
+          "home": 280,
+          "portfolio": 174,
+          "studio": 69,
+          "blog": 118,
+          "contact": 52
+        },
+        "buttonClicks": {
+          "view_portfolio": 89,
+          "book_a_call": 10,
+          "contact_us": 19
+        },
+        "countries": {
+          "United Kingdom": 75,
+          "United States": 56,
+          "Japan": 37,
+          "Germany": 28,
+          "Canada": 14,
+          "France": 7
+        },
+        "devices": {
+          "os": {
+            "Windows": 84,
+            "macOS": 75,
+            "Linux": 0,
+            "Android": 27,
+            "iOS": 42
+          },
+          "deviceType": {
+            "desktop": 149,
+            "mobile": 67,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 119,
+            "Edge": 26,
+            "Firefox": 26,
+            "Safari": 58,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 13
+        },
+        "projectViews": {
+          "proj-1": 52,
+          "proj-2": 42,
+          "proj-3": 35,
+          "proj-4": 29,
+          "proj-5": 16
+        },
+        "averageTimeSpent": 113
+      },
+      {
+        "date": "2026-05-16",
+        "visitors": 112,
+        "pageViews": {
+          "home": 155,
+          "portfolio": 85,
+          "studio": 52,
+          "blog": 62,
+          "contact": 33
+        },
+        "buttonClicks": {
+          "view_portfolio": 38,
+          "book_a_call": 7,
+          "contact_us": 14
+        },
+        "countries": {
+          "United Kingdom": 39,
+          "United States": 27,
+          "Japan": 19,
+          "Germany": 13,
+          "Canada": 4,
+          "France": 6,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 44,
+            "macOS": 38,
+            "Linux": 0,
+            "Android": 14,
+            "iOS": 22
+          },
+          "deviceType": {
+            "desktop": 83,
+            "mobile": 34,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 62,
+            "Edge": 11,
+            "Firefox": 12,
+            "Safari": 32,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 2,
+          "newsletter": 4
+        },
+        "projectViews": {
+          "proj-1": 24,
+          "proj-2": 22,
+          "proj-3": 16,
+          "proj-4": 13,
+          "proj-5": 7,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 97
+      },
+      {
+        "date": "2026-05-17",
+        "visitors": 127,
+        "pageViews": {
+          "home": 172,
+          "portfolio": 108,
+          "studio": 57,
+          "blog": 66,
+          "contact": 26
+        },
+        "buttonClicks": {
+          "view_portfolio": 59,
+          "book_a_call": 5,
+          "contact_us": 8
+        },
+        "countries": {
+          "United Kingdom": 44,
+          "United States": 30,
+          "Japan": 21,
+          "Germany": 15,
+          "Canada": 9,
+          "France": 6,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 53,
+            "macOS": 43,
+            "Linux": 0,
+            "Android": 19,
+            "iOS": 26
+          },
+          "deviceType": {
+            "desktop": 91,
+            "mobile": 34,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 73,
+            "Edge": 12,
+            "Firefox": 15,
+            "Safari": 33,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 3,
+          "bookCall": 2,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 38,
+          "proj-2": 25,
+          "proj-3": 19,
+          "proj-4": 15,
+          "proj-5": 8,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 88
+      },
+      {
+        "date": "2026-05-18",
+        "visitors": 227,
+        "pageViews": {
+          "home": 326,
+          "portfolio": 196,
+          "studio": 111,
+          "blog": 144,
+          "contact": 61
+        },
+        "buttonClicks": {
+          "view_portfolio": 94,
+          "book_a_call": 13,
+          "contact_us": 21
+        },
+        "countries": {
+          "United Kingdom": 95,
+          "United States": 53,
+          "Japan": 37,
+          "Germany": 25,
+          "Canada": 8,
+          "France": 5,
+          "Australia": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 85,
+            "macOS": 71,
+            "Linux": 0,
+            "Android": 29,
+            "iOS": 48
+          },
+          "deviceType": {
+            "desktop": 163,
+            "mobile": 63,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 134,
+            "Edge": 23,
+            "Firefox": 28,
+            "Safari": 56,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 5,
+          "newsletter": 14
+        },
+        "projectViews": {
+          "proj-1": 56,
+          "proj-2": 52,
+          "proj-3": 38,
+          "proj-4": 29,
+          "proj-5": 15,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 114
+      },
+      {
+        "date": "2026-05-19",
+        "visitors": 170,
+        "pageViews": {
+          "home": 246,
+          "portfolio": 111,
+          "studio": 71,
+          "blog": 73,
+          "contact": 52
+        },
+        "buttonClicks": {
+          "view_portfolio": 44,
+          "book_a_call": 10,
+          "contact_us": 22
+        },
+        "countries": {
+          "United Kingdom": 61,
+          "United States": 40,
+          "Japan": 33,
+          "Germany": 21,
+          "Canada": 7,
+          "France": 6,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 68,
+            "macOS": 54,
+            "Linux": 0,
+            "Android": 23,
+            "iOS": 33
+          },
+          "deviceType": {
+            "desktop": 122,
+            "mobile": 49,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 97,
+            "Edge": 20,
+            "Firefox": 20,
+            "Safari": 42,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 4,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 34,
+          "proj-2": 27,
+          "proj-3": 22,
+          "proj-4": 16,
+          "proj-5": 9,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 104
+      },
+      {
+        "date": "2026-05-20",
+        "visitors": 184,
+        "pageViews": {
+          "home": 260,
+          "portfolio": 133,
+          "studio": 86,
+          "blog": 81,
+          "contact": 60
+        },
+        "buttonClicks": {
+          "view_portfolio": 73,
+          "book_a_call": 13,
+          "contact_us": 25
+        },
+        "countries": {
+          "United Kingdom": 67,
+          "United States": 48,
+          "Japan": 36,
+          "Germany": 19,
+          "Canada": 8,
+          "France": 6
+        },
+        "devices": {
+          "os": {
+            "Windows": 74,
+            "macOS": 60,
+            "Linux": 0,
+            "Android": 27,
+            "iOS": 33
+          },
+          "deviceType": {
+            "desktop": 127,
+            "mobile": 55,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 103,
+            "Edge": 17,
+            "Firefox": 24,
+            "Safari": 52,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 12,
+          "bookCall": 5,
+          "newsletter": 12
+        },
+        "projectViews": {
+          "proj-1": 37,
+          "proj-2": 35,
+          "proj-3": 29,
+          "proj-4": 21,
+          "proj-5": 11
+        },
+        "averageTimeSpent": 118
+      },
+      {
+        "date": "2026-05-21",
+        "visitors": 179,
+        "pageViews": {
+          "home": 253,
+          "portfolio": 108,
+          "studio": 80,
+          "blog": 85,
+          "contact": 55
+        },
+        "buttonClicks": {
+          "view_portfolio": 50,
+          "book_a_call": 9,
+          "contact_us": 22
+        },
+        "countries": {
+          "United Kingdom": 64,
+          "United States": 41,
+          "Japan": 34,
+          "Germany": 17,
+          "Canada": 10,
+          "France": 8,
+          "Australia": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 65,
+            "macOS": 60,
+            "Linux": 0,
+            "Android": 23,
+            "iOS": 36
+          },
+          "deviceType": {
+            "desktop": 128,
+            "mobile": 52,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 107,
+            "Edge": 19,
+            "Firefox": 20,
+            "Safari": 51,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 11,
+          "bookCall": 3,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 30,
+          "proj-2": 26,
+          "proj-3": 23,
+          "proj-4": 17,
+          "proj-5": 9,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 55
+      },
+      {
+        "date": "2026-05-22",
+        "visitors": 164,
+        "pageViews": {
+          "home": 204,
+          "portfolio": 133,
+          "studio": 79,
+          "blog": 96,
+          "contact": 55
+        },
+        "buttonClicks": {
+          "view_portfolio": 69,
+          "book_a_call": 13,
+          "contact_us": 23
+        },
+        "countries": {
+          "United Kingdom": 60,
+          "United States": 40,
+          "Japan": 28,
+          "Germany": 20,
+          "Canada": 10,
+          "France": 6
+        },
+        "devices": {
+          "os": {
+            "Windows": 66,
+            "macOS": 57,
+            "Linux": 0,
+            "Android": 25,
+            "iOS": 30
+          },
+          "deviceType": {
+            "desktop": 115,
+            "mobile": 49,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 96,
+            "Edge": 19,
+            "Firefox": 17,
+            "Safari": 41,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 10,
+          "bookCall": 6,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 36,
+          "proj-2": 34,
+          "proj-3": 26,
+          "proj-4": 18,
+          "proj-5": 9,
+          "proj-6": 10
+        },
+        "averageTimeSpent": 69
+      },
+      {
+        "date": "2026-05-23",
+        "visitors": 90,
+        "pageViews": {
+          "home": 109,
+          "portfolio": 70,
+          "studio": 35,
+          "blog": 47,
+          "contact": 30
+        },
+        "buttonClicks": {
+          "view_portfolio": 31,
+          "book_a_call": 6,
+          "contact_us": 11
+        },
+        "countries": {
+          "United Kingdom": 32,
+          "United States": 23,
+          "Japan": 15,
+          "Germany": 10,
+          "Canada": 6,
+          "France": 2,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 37,
+            "macOS": 29,
+            "Linux": 0,
+            "Android": 12,
+            "iOS": 17
+          },
+          "deviceType": {
+            "desktop": 63,
+            "mobile": 28,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 52,
+            "Edge": 10,
+            "Firefox": 10,
+            "Safari": 22,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 2,
+          "newsletter": 4
+        },
+        "projectViews": {
+          "proj-1": 19,
+          "proj-2": 18,
+          "proj-3": 15,
+          "proj-4": 10,
+          "proj-5": 7,
+          "proj-6": 1
+        },
+        "averageTimeSpent": 102
+      },
+      {
+        "date": "2026-05-24",
+        "visitors": 119,
+        "pageViews": {
+          "home": 164,
+          "portfolio": 87,
+          "studio": 54,
+          "blog": 79,
+          "contact": 31
+        },
+        "buttonClicks": {
+          "view_portfolio": 36,
+          "book_a_call": 7,
+          "contact_us": 14
+        },
+        "countries": {
+          "United Kingdom": 42,
+          "United States": 30,
+          "Japan": 21,
+          "Germany": 14,
+          "Canada": 6,
+          "France": 5,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 50,
+            "macOS": 41,
+            "Linux": 0,
+            "Android": 17,
+            "iOS": 24
+          },
+          "deviceType": {
+            "desktop": 86,
+            "mobile": 33,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 69,
+            "Edge": 14,
+            "Firefox": 14,
+            "Safari": 31,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 3,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 30,
+          "proj-2": 19,
+          "proj-3": 17,
+          "proj-4": 11,
+          "proj-5": 7,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 88
+      },
+      {
+        "date": "2026-05-25",
+        "visitors": 166,
+        "pageViews": {
+          "home": 243,
+          "portfolio": 145,
+          "studio": 80,
+          "blog": 81,
+          "contact": 46
+        },
+        "buttonClicks": {
+          "view_portfolio": 69,
+          "book_a_call": 10,
+          "contact_us": 21
+        },
+        "countries": {
+          "United Kingdom": 58,
+          "United States": 43,
+          "Japan": 29,
+          "Germany": 17,
+          "Canada": 10,
+          "France": 6,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 66,
+            "macOS": 58,
+            "Linux": 0,
+            "Android": 23,
+            "iOS": 34
+          },
+          "deviceType": {
+            "desktop": 120,
+            "mobile": 49,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 96,
+            "Edge": 17,
+            "Firefox": 20,
+            "Safari": 40,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 3,
+          "newsletter": 12
+        },
+        "projectViews": {
+          "proj-1": 44,
+          "proj-2": 36,
+          "proj-3": 29,
+          "proj-4": 20,
+          "proj-5": 11,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 86
+      },
+      {
+        "date": "2026-05-26",
+        "visitors": 217,
+        "pageViews": {
+          "home": 318,
+          "portfolio": 144,
+          "studio": 79,
+          "blog": 117,
+          "contact": 61
+        },
+        "buttonClicks": {
+          "view_portfolio": 69,
+          "book_a_call": 15,
+          "contact_us": 21
+        },
+        "countries": {
+          "United Kingdom": 74,
+          "United States": 59,
+          "Japan": 41,
+          "Germany": 27,
+          "Canada": 13,
+          "France": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 87,
+            "macOS": 74,
+            "Linux": 0,
+            "Android": 34,
+            "iOS": 41
+          },
+          "deviceType": {
+            "desktop": 155,
+            "mobile": 59,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 126,
+            "Edge": 21,
+            "Firefox": 26,
+            "Safari": 54,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 10,
+          "bookCall": 6,
+          "newsletter": 14
+        },
+        "projectViews": {
+          "proj-1": 40,
+          "proj-2": 35,
+          "proj-3": 27,
+          "proj-4": 23,
+          "proj-5": 14,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 54
+      },
+      {
+        "date": "2026-05-27",
+        "visitors": 201,
+        "pageViews": {
+          "home": 258,
+          "portfolio": 175,
+          "studio": 93,
+          "blog": 94,
+          "contact": 63
+        },
+        "buttonClicks": {
+          "view_portfolio": 74,
+          "book_a_call": 13,
+          "contact_us": 22
+        },
+        "countries": {
+          "United Kingdom": 70,
+          "United States": 51,
+          "Japan": 32,
+          "Germany": 19,
+          "Canada": 14,
+          "France": 10,
+          "Australia": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 76,
+            "macOS": 65,
+            "Linux": 0,
+            "Android": 29,
+            "iOS": 38
+          },
+          "deviceType": {
+            "desktop": 140,
+            "mobile": 54,
+            "tablet": 7
+          },
+          "browser": {
+            "Chrome": 117,
+            "Edge": 22,
+            "Firefox": 26,
+            "Safari": 50,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 5,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 54,
+          "proj-2": 41,
+          "proj-3": 34,
+          "proj-4": 22,
+          "proj-5": 17,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 100
+      },
+      {
+        "date": "2026-05-28",
+        "visitors": 205,
+        "pageViews": {
+          "home": 307,
+          "portfolio": 164,
+          "studio": 89,
+          "blog": 142,
+          "contact": 62
+        },
+        "buttonClicks": {
+          "view_portfolio": 66,
+          "book_a_call": 12,
+          "contact_us": 20
+        },
+        "countries": {
+          "United Kingdom": 73,
+          "United States": 54,
+          "Japan": 35,
+          "Germany": 25,
+          "Canada": 7,
+          "France": 8,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 80,
+            "macOS": 68,
+            "Linux": 0,
+            "Android": 29,
+            "iOS": 42
+          },
+          "deviceType": {
+            "desktop": 143,
+            "mobile": 60,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 118,
+            "Edge": 21,
+            "Firefox": 22,
+            "Safari": 59,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 5,
+          "newsletter": 11
+        },
+        "projectViews": {
+          "proj-1": 50,
+          "proj-2": 39,
+          "proj-3": 32,
+          "proj-4": 20,
+          "proj-5": 16,
+          "proj-6": 7
+        },
+        "averageTimeSpent": 55
+      },
+      {
+        "date": "2026-05-29",
+        "visitors": 186,
+        "pageViews": {
+          "home": 275,
+          "portfolio": 154,
+          "studio": 81,
+          "blog": 83,
+          "contact": 53
+        },
+        "buttonClicks": {
+          "view_portfolio": 78,
+          "book_a_call": 9,
+          "contact_us": 16
+        },
+        "countries": {
+          "United Kingdom": 62,
+          "United States": 47,
+          "Japan": 35,
+          "Germany": 17,
+          "Canada": 10,
+          "France": 9,
+          "Australia": 6
+        },
+        "devices": {
+          "os": {
+            "Windows": 73,
+            "macOS": 64,
+            "Linux": 0,
+            "Android": 28,
+            "iOS": 40
+          },
+          "deviceType": {
+            "desktop": 133,
+            "mobile": 48,
+            "tablet": 5
+          },
+          "browser": {
+            "Chrome": 109,
+            "Edge": 19,
+            "Firefox": 20,
+            "Safari": 53,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 4,
+          "newsletter": 11
+        },
+        "projectViews": {
+          "proj-1": 47,
+          "proj-2": 38,
+          "proj-3": 27,
+          "proj-4": 25,
+          "proj-5": 12,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 83
+      },
+      {
+        "date": "2026-05-30",
+        "visitors": 75,
+        "pageViews": {
+          "home": 98,
+          "portfolio": 48,
+          "studio": 36,
+          "blog": 39,
+          "contact": 25
+        },
+        "buttonClicks": {
+          "view_portfolio": 19,
+          "book_a_call": 6,
+          "contact_us": 8
+        },
+        "countries": {
+          "United Kingdom": 28,
+          "United States": 18,
+          "Japan": 14,
+          "Germany": 7,
+          "Canada": 5,
+          "France": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 31,
+            "macOS": 24,
+            "Linux": 0,
+            "Android": 9,
+            "iOS": 15
+          },
+          "deviceType": {
+            "desktop": 55,
+            "mobile": 19,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 42,
+            "Edge": 9,
+            "Firefox": 8,
+            "Safari": 19,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 2,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 14,
+          "proj-2": 12,
+          "proj-3": 9,
+          "proj-4": 6,
+          "proj-5": 5,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 125
+      },
+      {
+        "date": "2026-05-31",
+        "visitors": 121,
+        "pageViews": {
+          "home": 163,
+          "portfolio": 101,
+          "studio": 48,
+          "blog": 71,
+          "contact": 31
+        },
+        "buttonClicks": {
+          "view_portfolio": 46,
+          "book_a_call": 7,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 45,
+          "United States": 29,
+          "Japan": 22,
+          "Germany": 12,
+          "Canada": 4,
+          "France": 7,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 49,
+            "macOS": 41,
+            "Linux": 0,
+            "Android": 16,
+            "iOS": 23
+          },
+          "deviceType": {
+            "desktop": 89,
+            "mobile": 32,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 71,
+            "Edge": 13,
+            "Firefox": 13,
+            "Safari": 34,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 3,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 29,
+          "proj-2": 26,
+          "proj-3": 18,
+          "proj-4": 12,
+          "proj-5": 10,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 81
+      },
+      {
+        "date": "2026-06-01",
+        "visitors": 226,
+        "pageViews": {
+          "home": 277,
+          "portfolio": 178,
+          "studio": 74,
+          "blog": 124,
+          "contact": 56
+        },
+        "buttonClicks": {
+          "view_portfolio": 95,
+          "book_a_call": 10,
+          "contact_us": 18
+        },
+        "countries": {
+          "United Kingdom": 81,
+          "United States": 54,
+          "Japan": 45,
+          "Germany": 29,
+          "Canada": 16,
+          "France": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 88,
+            "macOS": 73,
+            "Linux": 0,
+            "Android": 29,
+            "iOS": 48
+          },
+          "deviceType": {
+            "desktop": 166,
+            "mobile": 65,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 126,
+            "Edge": 21,
+            "Firefox": 29,
+            "Safari": 57,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 53,
+          "proj-2": 45,
+          "proj-3": 35,
+          "proj-4": 25,
+          "proj-5": 18,
+          "proj-6": 2
+        },
+        "averageTimeSpent": 84
+      },
+      {
+        "date": "2026-06-02",
+        "visitors": 207,
+        "pageViews": {
+          "home": 298,
+          "portfolio": 157,
+          "studio": 97,
+          "blog": 118,
+          "contact": 64
+        },
+        "buttonClicks": {
+          "view_portfolio": 85,
+          "book_a_call": 13,
+          "contact_us": 20
+        },
+        "countries": {
+          "United Kingdom": 72,
+          "United States": 54,
+          "Japan": 41,
+          "Germany": 19,
+          "Canada": 11,
+          "France": 10
+        },
+        "devices": {
+          "os": {
+            "Windows": 77,
+            "macOS": 64,
+            "Linux": 0,
+            "Android": 27,
+            "iOS": 41
+          },
+          "deviceType": {
+            "desktop": 148,
+            "mobile": 53,
+            "tablet": 6
+          },
+          "browser": {
+            "Chrome": 114,
+            "Edge": 19,
+            "Firefox": 26,
+            "Safari": 54,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 10,
+          "bookCall": 4,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 47,
+          "proj-2": 34,
+          "proj-3": 32,
+          "proj-4": 23,
+          "proj-5": 15,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 70
+      },
+      {
+        "date": "2026-06-03",
+        "visitors": 231,
+        "pageViews": {
+          "home": 308,
+          "portfolio": 191,
+          "studio": 111,
+          "blog": 93,
+          "contact": 46
+        },
+        "buttonClicks": {
+          "view_portfolio": 80,
+          "book_a_call": 10,
+          "contact_us": 19
+        },
+        "countries": {
+          "United Kingdom": 87,
+          "United States": 56,
+          "Japan": 39,
+          "Germany": 30,
+          "Canada": 13,
+          "France": 5,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 88,
+            "macOS": 76,
+            "Linux": 0,
+            "Android": 36,
+            "iOS": 44
+          },
+          "deviceType": {
+            "desktop": 167,
+            "mobile": 63,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 131,
+            "Edge": 23,
+            "Firefox": 25,
+            "Safari": 60,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 54,
+          "proj-2": 47,
+          "proj-3": 38,
+          "proj-4": 31,
+          "proj-5": 20,
+          "proj-6": 1
+        },
+        "averageTimeSpent": 85
+      },
+      {
+        "date": "2026-06-04",
+        "visitors": 219,
+        "pageViews": {
+          "home": 293,
+          "portfolio": 183,
+          "studio": 73,
+          "blog": 126,
+          "contact": 69
+        },
+        "buttonClicks": {
+          "view_portfolio": 85,
+          "book_a_call": 16,
+          "contact_us": 21
+        },
+        "countries": {
+          "United Kingdom": 78,
+          "United States": 55,
+          "Japan": 42,
+          "Germany": 28,
+          "Canada": 8,
+          "France": 8
+        },
+        "devices": {
+          "os": {
+            "Windows": 89,
+            "macOS": 77,
+            "Linux": 0,
+            "Android": 28,
+            "iOS": 43
+          },
+          "deviceType": {
+            "desktop": 154,
+            "mobile": 62,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 125,
+            "Edge": 24,
+            "Firefox": 24,
+            "Safari": 61,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 7,
+          "newsletter": 11
+        },
+        "projectViews": {
+          "proj-1": 52,
+          "proj-2": 42,
+          "proj-3": 39,
+          "proj-4": 27,
+          "proj-5": 14,
+          "proj-6": 9
+        },
+        "averageTimeSpent": 91
+      },
+      {
+        "date": "2026-06-05",
+        "visitors": 153,
+        "pageViews": {
+          "home": 224,
+          "portfolio": 117,
+          "studio": 56,
+          "blog": 81,
+          "contact": 35
+        },
+        "buttonClicks": {
+          "view_portfolio": 63,
+          "book_a_call": 6,
+          "contact_us": 11
+        },
+        "countries": {
+          "United Kingdom": 54,
+          "United States": 40,
+          "Japan": 27,
+          "Germany": 17,
+          "Canada": 11,
+          "France": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 57,
+            "macOS": 54,
+            "Linux": 0,
+            "Android": 21,
+            "iOS": 30
+          },
+          "deviceType": {
+            "desktop": 104,
+            "mobile": 39,
+            "tablet": 10
+          },
+          "browser": {
+            "Chrome": 91,
+            "Edge": 18,
+            "Firefox": 18,
+            "Safari": 39,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 3,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 34,
+          "proj-2": 30,
+          "proj-3": 19,
+          "proj-4": 17,
+          "proj-5": 11,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 93
+      },
+      {
+        "date": "2026-06-06",
+        "visitors": 74,
+        "pageViews": {
+          "home": 101,
+          "portfolio": 59,
+          "studio": 34,
+          "blog": 43,
+          "contact": 26
+        },
+        "buttonClicks": {
+          "view_portfolio": 29,
+          "book_a_call": 4,
+          "contact_us": 11
+        },
+        "countries": {
+          "United Kingdom": 26,
+          "United States": 17,
+          "Japan": 15,
+          "Germany": 8,
+          "Canada": 4,
+          "France": 3,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 30,
+            "macOS": 25,
+            "Linux": 0,
+            "Android": 11,
+            "iOS": 15
+          },
+          "deviceType": {
+            "desktop": 50,
+            "mobile": 21,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 43,
+            "Edge": 8,
+            "Firefox": 9,
+            "Safari": 18,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 2,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 18,
+          "proj-2": 14,
+          "proj-3": 10,
+          "proj-4": 8,
+          "proj-5": 6,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 69
+      },
+      {
+        "date": "2026-06-07",
+        "visitors": 75,
+        "pageViews": {
+          "home": 106,
+          "portfolio": 67,
+          "studio": 34,
+          "blog": 31,
+          "contact": 20
+        },
+        "buttonClicks": {
+          "view_portfolio": 36,
+          "book_a_call": 5,
+          "contact_us": 6
+        },
+        "countries": {
+          "United Kingdom": 30,
+          "United States": 18,
+          "Japan": 12,
+          "Germany": 9,
+          "Canada": 2,
+          "France": 3,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 28,
+            "macOS": 25,
+            "Linux": 0,
+            "Android": 11,
+            "iOS": 15
+          },
+          "deviceType": {
+            "desktop": 52,
+            "mobile": 20,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 42,
+            "Edge": 8,
+            "Firefox": 9,
+            "Safari": 21,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 2,
+          "bookCall": 2,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 20,
+          "proj-2": 16,
+          "proj-3": 13,
+          "proj-4": 9,
+          "proj-5": 5,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 121
+      },
+      {
+        "date": "2026-06-08",
+        "visitors": 240,
+        "pageViews": {
+          "home": 315,
+          "portfolio": 187,
+          "studio": 84,
+          "blog": 97,
+          "contact": 74
+        },
+        "buttonClicks": {
+          "view_portfolio": 89,
+          "book_a_call": 15,
+          "contact_us": 30
+        },
+        "countries": {
+          "United Kingdom": 81,
+          "United States": 56,
+          "Japan": 43,
+          "Germany": 31,
+          "Canada": 16,
+          "France": 13
+        },
+        "devices": {
+          "os": {
+            "Windows": 91,
+            "macOS": 83,
+            "Linux": 0,
+            "Android": 34,
+            "iOS": 50
+          },
+          "deviceType": {
+            "desktop": 168,
+            "mobile": 69,
+            "tablet": 3
+          },
+          "browser": {
+            "Chrome": 133,
+            "Edge": 28,
+            "Firefox": 30,
+            "Safari": 67,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 11,
+          "bookCall": 6,
+          "newsletter": 15
+        },
+        "projectViews": {
+          "proj-1": 62,
+          "proj-2": 40,
+          "proj-3": 38,
+          "proj-4": 23,
+          "proj-5": 19,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 72
+      },
+      {
+        "date": "2026-06-09",
+        "visitors": 244,
+        "pageViews": {
+          "home": 344,
+          "portfolio": 195,
+          "studio": 104,
+          "blog": 153,
+          "contact": 60
+        },
+        "buttonClicks": {
+          "view_portfolio": 84,
+          "book_a_call": 14,
+          "contact_us": 26
+        },
+        "countries": {
+          "United Kingdom": 83,
+          "United States": 63,
+          "Japan": 47,
+          "Germany": 27,
+          "Canada": 8,
+          "France": 13,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 97,
+            "macOS": 85,
+            "Linux": 0,
+            "Android": 37,
+            "iOS": 48
+          },
+          "deviceType": {
+            "desktop": 170,
+            "mobile": 69,
+            "tablet": 5
+          },
+          "browser": {
+            "Chrome": 139,
+            "Edge": 26,
+            "Firefox": 31,
+            "Safari": 62,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 12,
+          "bookCall": 5,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 51,
+          "proj-2": 49,
+          "proj-3": 37,
+          "proj-4": 33,
+          "proj-5": 19,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 99
+      },
+      {
+        "date": "2026-06-10",
+        "visitors": 151,
+        "pageViews": {
+          "home": 215,
+          "portfolio": 130,
+          "studio": 56,
+          "blog": 85,
+          "contact": 38
+        },
+        "buttonClicks": {
+          "view_portfolio": 55,
+          "book_a_call": 7,
+          "contact_us": 13
+        },
+        "countries": {
+          "United Kingdom": 61,
+          "United States": 37,
+          "Japan": 24,
+          "Germany": 14,
+          "Canada": 8,
+          "France": 4,
+          "Australia": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 59,
+            "macOS": 48,
+            "Linux": 0,
+            "Android": 22,
+            "iOS": 29
+          },
+          "deviceType": {
+            "desktop": 105,
+            "mobile": 46,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 85,
+            "Edge": 15,
+            "Firefox": 18,
+            "Safari": 39,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 2,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 38,
+          "proj-2": 29,
+          "proj-3": 27,
+          "proj-4": 21,
+          "proj-5": 10,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 97
+      },
+      {
+        "date": "2026-06-11",
+        "visitors": 182,
+        "pageViews": {
+          "home": 258,
+          "portfolio": 145,
+          "studio": 86,
+          "blog": 113,
+          "contact": 59
+        },
+        "buttonClicks": {
+          "view_portfolio": 62,
+          "book_a_call": 10,
+          "contact_us": 20
+        },
+        "countries": {
+          "United Kingdom": 67,
+          "United States": 45,
+          "Japan": 36,
+          "Germany": 20,
+          "Canada": 10,
+          "France": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 74,
+            "macOS": 55,
+            "Linux": 0,
+            "Android": 28,
+            "iOS": 34
+          },
+          "deviceType": {
+            "desktop": 126,
+            "mobile": 49,
+            "tablet": 7
+          },
+          "browser": {
+            "Chrome": 99,
+            "Edge": 17,
+            "Firefox": 18,
+            "Safari": 46,
+            "Opera": 2
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 3,
+          "newsletter": 6
+        },
+        "projectViews": {
+          "proj-1": 44,
+          "proj-2": 31,
+          "proj-3": 31,
+          "proj-4": 22,
+          "proj-5": 11,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 91
+      },
+      {
+        "date": "2026-06-12",
+        "visitors": 154,
+        "pageViews": {
+          "home": 191,
+          "portfolio": 129,
+          "studio": 58,
+          "blog": 68,
+          "contact": 35
+        },
+        "buttonClicks": {
+          "view_portfolio": 52,
+          "book_a_call": 7,
+          "contact_us": 12
+        },
+        "countries": {
+          "United Kingdom": 54,
+          "United States": 39,
+          "Japan": 25,
+          "Germany": 19,
+          "Canada": 10,
+          "France": 7
+        },
+        "devices": {
+          "os": {
+            "Windows": 64,
+            "macOS": 51,
+            "Linux": 0,
+            "Android": 22,
+            "iOS": 30
+          },
+          "deviceType": {
+            "desktop": 107,
+            "mobile": 39,
+            "tablet": 8
+          },
+          "browser": {
+            "Chrome": 84,
+            "Edge": 17,
+            "Firefox": 20,
+            "Safari": 38,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 3,
+          "newsletter": 9
+        },
+        "projectViews": {
+          "proj-1": 41,
+          "proj-2": 31,
+          "proj-3": 24,
+          "proj-4": 19,
+          "proj-5": 9,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 125
+      },
+      {
+        "date": "2026-06-13",
+        "visitors": 88,
+        "pageViews": {
+          "home": 118,
+          "portfolio": 76,
+          "studio": 30,
+          "blog": 56,
+          "contact": 18
+        },
+        "buttonClicks": {
+          "view_portfolio": 38,
+          "book_a_call": 3,
+          "contact_us": 6
+        },
+        "countries": {
+          "United Kingdom": 32,
+          "United States": 22,
+          "Japan": 16,
+          "Germany": 9,
+          "Canada": 6,
+          "France": 3
+        },
+        "devices": {
+          "os": {
+            "Windows": 37,
+            "macOS": 30,
+            "Linux": 0,
+            "Android": 12,
+            "iOS": 17
+          },
+          "deviceType": {
+            "desktop": 60,
+            "mobile": 27,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 50,
+            "Edge": 10,
+            "Firefox": 10,
+            "Safari": 23,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 3,
+          "bookCall": 1,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 22,
+          "proj-2": 18,
+          "proj-3": 16,
+          "proj-4": 13,
+          "proj-5": 7
+        },
+        "averageTimeSpent": 89
+      },
+      {
+        "date": "2026-06-14",
+        "visitors": 110,
+        "pageViews": {
+          "home": 151,
+          "portfolio": 81,
+          "studio": 53,
+          "blog": 75,
+          "contact": 23
+        },
+        "buttonClicks": {
+          "view_portfolio": 41,
+          "book_a_call": 5,
+          "contact_us": 8
+        },
+        "countries": {
+          "United Kingdom": 40,
+          "United States": 28,
+          "Japan": 19,
+          "Germany": 12,
+          "Canada": 4,
+          "France": 6,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 40,
+            "macOS": 33,
+            "Linux": 0,
+            "Android": 17,
+            "iOS": 20
+          },
+          "deviceType": {
+            "desktop": 81,
+            "mobile": 33,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 61,
+            "Edge": 10,
+            "Firefox": 14,
+            "Safari": 27,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 2,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 24,
+          "proj-2": 20,
+          "proj-3": 15,
+          "proj-4": 12,
+          "proj-5": 9,
+          "proj-6": 1
+        },
+        "averageTimeSpent": 77
+      },
+      {
+        "date": "2026-06-15",
+        "visitors": 153,
+        "pageViews": {
+          "home": 226,
+          "portfolio": 136,
+          "studio": 63,
+          "blog": 88,
+          "contact": 31
+        },
+        "buttonClicks": {
+          "view_portfolio": 65,
+          "book_a_call": 5,
+          "contact_us": 10
+        },
+        "countries": {
+          "United Kingdom": 55,
+          "United States": 37,
+          "Japan": 27,
+          "Germany": 18,
+          "Canada": 7,
+          "France": 4,
+          "Australia": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 57,
+            "macOS": 48,
+            "Linux": 0,
+            "Android": 21,
+            "iOS": 32
+          },
+          "deviceType": {
+            "desktop": 112,
+            "mobile": 41,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 88,
+            "Edge": 18,
+            "Firefox": 17,
+            "Safari": 40,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 2,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 42,
+          "proj-2": 31,
+          "proj-3": 23,
+          "proj-4": 21,
+          "proj-5": 13,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 88
+      },
+      {
+        "date": "2026-06-16",
+        "visitors": 240,
+        "pageViews": {
+          "home": 332,
+          "portfolio": 161,
+          "studio": 80,
+          "blog": 130,
+          "contact": 55
+        },
+        "buttonClicks": {
+          "view_portfolio": 75,
+          "book_a_call": 9,
+          "contact_us": 19
+        },
+        "countries": {
+          "United Kingdom": 87,
+          "United States": 60,
+          "Japan": 46,
+          "Germany": 27,
+          "Canada": 12,
+          "France": 8
+        },
+        "devices": {
+          "os": {
+            "Windows": 98,
+            "macOS": 73,
+            "Linux": 0,
+            "Android": 30,
+            "iOS": 49
+          },
+          "deviceType": {
+            "desktop": 174,
+            "mobile": 68,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 138,
+            "Edge": 28,
+            "Firefox": 26,
+            "Safari": 60,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 8,
+          "bookCall": 3,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 54,
+          "proj-2": 36,
+          "proj-3": 28,
+          "proj-4": 21,
+          "proj-5": 14,
+          "proj-6": 8
+        },
+        "averageTimeSpent": 129
+      },
+      {
+        "date": "2026-06-17",
+        "visitors": 225,
+        "pageViews": {
+          "home": 291,
+          "portfolio": 180,
+          "studio": 102,
+          "blog": 102,
+          "contact": 49
+        },
+        "buttonClicks": {
+          "view_portfolio": 87,
+          "book_a_call": 10,
+          "contact_us": 16
+        },
+        "countries": {
+          "United Kingdom": 83,
+          "United States": 56,
+          "Japan": 40,
+          "Germany": 23,
+          "Canada": 12,
+          "France": 6,
+          "Australia": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 84,
+            "macOS": 80,
+            "Linux": 0,
+            "Android": 28,
+            "iOS": 48
+          },
+          "deviceType": {
+            "desktop": 158,
+            "mobile": 66,
+            "tablet": 1
+          },
+          "browser": {
+            "Chrome": 134,
+            "Edge": 22,
+            "Firefox": 29,
+            "Safari": 65,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 7,
+          "bookCall": 4,
+          "newsletter": 12
+        },
+        "projectViews": {
+          "proj-1": 63,
+          "proj-2": 39,
+          "proj-3": 37,
+          "proj-4": 21,
+          "proj-5": 14,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 57
+      },
+      {
+        "date": "2026-06-18",
+        "visitors": 246,
+        "pageViews": {
+          "home": 333,
+          "portfolio": 192,
+          "studio": 94,
+          "blog": 157,
+          "contact": 60
+        },
+        "buttonClicks": {
+          "view_portfolio": 87,
+          "book_a_call": 11,
+          "contact_us": 25
+        },
+        "countries": {
+          "United Kingdom": 84,
+          "United States": 59,
+          "Japan": 48,
+          "Germany": 26,
+          "Canada": 17,
+          "France": 12
+        },
+        "devices": {
+          "os": {
+            "Windows": 90,
+            "macOS": 76,
+            "Linux": 0,
+            "Android": 31,
+            "iOS": 49
+          },
+          "deviceType": {
+            "desktop": 169,
+            "mobile": 64,
+            "tablet": 13
+          },
+          "browser": {
+            "Chrome": 145,
+            "Edge": 25,
+            "Firefox": 26,
+            "Safari": 66,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 12,
+          "bookCall": 5,
+          "newsletter": 14
+        },
+        "projectViews": {
+          "proj-1": 51,
+          "proj-2": 44,
+          "proj-3": 36,
+          "proj-4": 31,
+          "proj-5": 21,
+          "proj-6": 9
+        },
+        "averageTimeSpent": 78
+      },
+      {
+        "date": "2026-06-19",
+        "visitors": 276,
+        "pageViews": {
+          "home": 356,
+          "portfolio": 194,
+          "studio": 111,
+          "blog": 152,
+          "contact": 86
+        },
+        "buttonClicks": {
+          "view_portfolio": 97,
+          "book_a_call": 15,
+          "contact_us": 29
+        },
+        "countries": {
+          "United Kingdom": 98,
+          "United States": 65,
+          "Japan": 49,
+          "Germany": 29,
+          "Canada": 18,
+          "France": 7,
+          "Australia": 10
+        },
+        "devices": {
+          "os": {
+            "Windows": 101,
+            "macOS": 93,
+            "Linux": 0,
+            "Android": 35,
+            "iOS": 53
+          },
+          "deviceType": {
+            "desktop": 198,
+            "mobile": 73,
+            "tablet": 5
+          },
+          "browser": {
+            "Chrome": 154,
+            "Edge": 25,
+            "Firefox": 35,
+            "Safari": 70,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 12,
+          "bookCall": 7,
+          "newsletter": 14
+        },
+        "projectViews": {
+          "proj-1": 66,
+          "proj-2": 43,
+          "proj-3": 40,
+          "proj-4": 23,
+          "proj-5": 16,
+          "proj-6": 6
+        },
+        "averageTimeSpent": 94
+      },
+      {
+        "date": "2026-06-20",
+        "visitors": 108,
+        "pageViews": {
+          "home": 158,
+          "portfolio": 75,
+          "studio": 48,
+          "blog": 73,
+          "contact": 30
+        },
+        "buttonClicks": {
+          "view_portfolio": 32,
+          "book_a_call": 7,
+          "contact_us": 10
+        },
+        "countries": {
+          "United Kingdom": 45,
+          "United States": 25,
+          "Japan": 19,
+          "Germany": 10,
+          "Canada": 4,
+          "France": 4,
+          "Australia": 1
+        },
+        "devices": {
+          "os": {
+            "Windows": 43,
+            "macOS": 37,
+            "Linux": 0,
+            "Android": 16,
+            "iOS": 22
+          },
+          "deviceType": {
+            "desktop": 78,
+            "mobile": 33,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 62,
+            "Edge": 11,
+            "Firefox": 11,
+            "Safari": 27,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 4,
+          "bookCall": 3,
+          "newsletter": 3
+        },
+        "projectViews": {
+          "proj-1": 24,
+          "proj-2": 16,
+          "proj-3": 13,
+          "proj-4": 10,
+          "proj-5": 8,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 85
+      },
+      {
+        "date": "2026-06-21",
+        "visitors": 133,
+        "pageViews": {
+          "home": 165,
+          "portfolio": 111,
+          "studio": 44,
+          "blog": 84,
+          "contact": 33
+        },
+        "buttonClicks": {
+          "view_portfolio": 60,
+          "book_a_call": 5,
+          "contact_us": 11
+        },
+        "countries": {
+          "United Kingdom": 55,
+          "United States": 31,
+          "Japan": 23,
+          "Germany": 14,
+          "Canada": 4,
+          "France": 4,
+          "Australia": 2
+        },
+        "devices": {
+          "os": {
+            "Windows": 50,
+            "macOS": 44,
+            "Linux": 0,
+            "Android": 19,
+            "iOS": 28
+          },
+          "deviceType": {
+            "desktop": 97,
+            "mobile": 37,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 78,
+            "Edge": 15,
+            "Firefox": 16,
+            "Safari": 36,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 5,
+          "bookCall": 2,
+          "newsletter": 8
+        },
+        "projectViews": {
+          "proj-1": 31,
+          "proj-2": 27,
+          "proj-3": 20,
+          "proj-4": 18,
+          "proj-5": 12,
+          "proj-6": 3
+        },
+        "averageTimeSpent": 68
+      },
+      {
+        "date": "2026-06-22",
+        "visitors": 257,
+        "pageViews": {
+          "home": 345,
+          "portfolio": 155,
+          "studio": 87,
+          "blog": 152,
+          "contact": 83
+        },
+        "buttonClicks": {
+          "view_portfolio": 63,
+          "book_a_call": 18,
+          "contact_us": 31
+        },
+        "countries": {
+          "United Kingdom": 94,
+          "United States": 65,
+          "Japan": 45,
+          "Germany": 25,
+          "Canada": 15,
+          "France": 13
+        },
+        "devices": {
+          "os": {
+            "Windows": 96,
+            "macOS": 83,
+            "Linux": 0,
+            "Android": 31,
+            "iOS": 53
+          },
+          "deviceType": {
+            "desktop": 186,
+            "mobile": 79,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 146,
+            "Edge": 28,
+            "Firefox": 33,
+            "Safari": 68,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 14,
+          "bookCall": 7,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 50,
+          "proj-2": 33,
+          "proj-3": 33,
+          "proj-4": 24,
+          "proj-5": 11,
+          "proj-6": 4
+        },
+        "averageTimeSpent": 67
+      },
+      {
+        "date": "2026-06-23",
+        "visitors": 258,
+        "pageViews": {
+          "home": 335,
+          "portfolio": 185,
+          "studio": 117,
+          "blog": 150,
+          "contact": 64
+        },
+        "buttonClicks": {
+          "view_portfolio": 95,
+          "book_a_call": 15,
+          "contact_us": 23
+        },
+        "countries": {
+          "United Kingdom": 94,
+          "United States": 61,
+          "Japan": 48,
+          "Germany": 27,
+          "Canada": 11,
+          "France": 9,
+          "Australia": 8
+        },
+        "devices": {
+          "os": {
+            "Windows": 108,
+            "macOS": 91,
+            "Linux": 0,
+            "Android": 40,
+            "iOS": 48
+          },
+          "deviceType": {
+            "desktop": 185,
+            "mobile": 76,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 148,
+            "Edge": 24,
+            "Firefox": 33,
+            "Safari": 69,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 5,
+          "newsletter": 10
+        },
+        "projectViews": {
+          "proj-1": 63,
+          "proj-2": 42,
+          "proj-3": 34,
+          "proj-4": 23,
+          "proj-5": 18,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 129
+      },
+      {
+        "date": "2026-06-24",
+        "visitors": 252,
+        "pageViews": {
+          "home": 364,
+          "portfolio": 174,
+          "studio": 102,
+          "blog": 142,
+          "contact": 80
+        },
+        "buttonClicks": {
+          "view_portfolio": 87,
+          "book_a_call": 16,
+          "contact_us": 35
+        },
+        "countries": {
+          "United Kingdom": 86,
+          "United States": 66,
+          "Japan": 42,
+          "Germany": 24,
+          "Canada": 16,
+          "France": 9,
+          "Australia": 9
+        },
+        "devices": {
+          "os": {
+            "Windows": 105,
+            "macOS": 82,
+            "Linux": 0,
+            "Android": 38,
+            "iOS": 51
+          },
+          "deviceType": {
+            "desktop": 179,
+            "mobile": 71,
+            "tablet": 2
+          },
+          "browser": {
+            "Chrome": 150,
+            "Edge": 28,
+            "Firefox": 31,
+            "Safari": 72,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 15,
+          "bookCall": 5,
+          "newsletter": 14
+        },
+        "projectViews": {
+          "proj-1": 53,
+          "proj-2": 39,
+          "proj-3": 35,
+          "proj-4": 23,
+          "proj-5": 19,
+          "proj-6": 5
+        },
+        "averageTimeSpent": 124
+      },
+      {
+        "date": "2026-06-25",
+        "visitors": 171,
+        "pageViews": {
+          "home": 240,
+          "portfolio": 130,
+          "studio": 69,
+          "blog": 102,
+          "contact": 53
+        },
+        "buttonClicks": {
+          "view_portfolio": 58,
+          "book_a_call": 10,
+          "contact_us": 21
+        },
+        "countries": {
+          "United Kingdom": 59,
+          "United States": 46,
+          "Japan": 32,
+          "Germany": 17,
+          "Canada": 5,
+          "France": 7,
+          "Australia": 5
+        },
+        "devices": {
+          "os": {
+            "Windows": 62,
+            "macOS": 60,
+            "Linux": 0,
+            "Android": 21,
+            "iOS": 33
+          },
+          "deviceType": {
+            "desktop": 126,
+            "mobile": 52,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 94,
+            "Edge": 16,
+            "Firefox": 19,
+            "Safari": 44,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 9,
+          "bookCall": 4,
+          "newsletter": 5
+        },
+        "projectViews": {
+          "proj-1": 39,
+          "proj-2": 33,
+          "proj-3": 25,
+          "proj-4": 20,
+          "proj-5": 13
+        },
+        "averageTimeSpent": 129
+      },
+      {
+        "date": "2026-06-26",
+        "visitors": 222,
+        "pageViews": {
+          "home": 325,
+          "portfolio": 152,
+          "studio": 80,
+          "blog": 115,
+          "contact": 48
+        },
+        "buttonClicks": {
+          "view_portfolio": 77,
+          "book_a_call": 9,
+          "contact_us": 16
+        },
+        "countries": {
+          "United Kingdom": 80,
+          "United States": 60,
+          "Japan": 41,
+          "Germany": 22,
+          "Canada": 15,
+          "France": 4
+        },
+        "devices": {
+          "os": {
+            "Windows": 95,
+            "macOS": 72,
+            "Linux": 0,
+            "Android": 29,
+            "iOS": 45
+          },
+          "deviceType": {
+            "desktop": 164,
+            "mobile": 67,
+            "tablet": 0
+          },
+          "browser": {
+            "Chrome": 129,
+            "Edge": 26,
+            "Firefox": 25,
+            "Safari": 54,
+            "Opera": 0
+          }
+        },
+        "leads": {
+          "contactForm": 6,
+          "bookCall": 3,
+          "newsletter": 7
+        },
+        "projectViews": {
+          "proj-1": 48,
+          "proj-2": 36,
+          "proj-3": 26,
+          "proj-4": 21,
+          "proj-5": 11,
+          "proj-6": 10
+        },
+        "averageTimeSpent": 128
+      }
+    ]
+  },
+  "smtpSettings": {
+    "driver": "smtp",
+    "host": "smtp.hostinger.com",
+    "port": 465,
+    "encryption": "ssl",
+    "username": "contact@samcomics.com",
+    "password": "••••••••",
+    "fromName": "Sam Comics Studio",
+    "fromEmail": "contact@samcomics.com",
+    "replyToEmail": "contact@samcomics.com"
+  },
+  "autoResponseTemplate": "Thank you for contacting us. We've received your enquiry and will get back to you shortly.",
+  "submissions": [
+    {
+      "id": "sub-1",
+      "name": "Bruce Wayne",
+      "email": "bruce@waynecorp.com",
+      "phone": "+1 555-019-2831",
+      "message": "Need dynamic dark fantasy designs for an upcoming serialized detective graphic novel series.",
+      "submittedAt": "2026-06-25T14:24:00Z",
+      "status": "new",
+      "fieldsData": {
+        "field-1": "Bruce Wayne",
+        "field-2": "bruce@waynecorp.com",
+        "field-3": "American Graphic Novel",
+        "field-4": "$50,000+",
+        "field-5": "Need dynamic dark fantasy designs for an upcoming serialized detective graphic novel series."
+      },
+      "uploadedFiles": [
+        {
+          "name": "bat_logo_concept.pdf",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=400&q=80",
+          "size": 1048576
+        }
+      ],
+      "replies": [
+        {
+          "id": "rep-1",
+          "sender": "admin",
+          "message": "Hello Bruce, we are absolutely thrilled to discuss this Gotham detective aesthetic with you. Our lead storyboard inker Keiji Sato is available for a briefing.",
+          "sentAt": "2026-06-25T16:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "sub-2",
+      "name": "Motoko Kusanagi",
+      "email": "major@section9.gov.jp",
+      "phone": "+81 3-5555-0144",
+      "message": "Looking to hire storyboard directors for a cyberpunk tactical operations layout.",
+      "submittedAt": "2026-06-26T09:12:00Z",
+      "status": "replied",
+      "fieldsData": {
+        "field-1": "Motoko Kusanagi",
+        "field-2": "major@section9.gov.jp",
+        "field-3": "Manga Serial",
+        "field-4": "$15,000 - $50,000",
+        "field-5": "Looking to hire storyboard directors for a cyberpunk tactical operations layout."
+      },
+      "uploadedFiles": [],
+      "replies": [
+        {
+          "id": "rep-2",
+          "sender": "admin",
+          "message": "Understood, Major. We have deep expertise in crosshatching, perspective lensing, and dystopian concept panels. I have updated your status.",
+          "sentAt": "2026-06-26T10:15:00Z"
+        }
+      ]
+    }
+  ]
+}
